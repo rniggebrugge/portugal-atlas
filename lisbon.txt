@@ -1,0 +1,536 @@
+TRIBUNAL DA RELAÇÃO DE LISBOA
+COMARCA DOS AÇORES
+	- Angra do Heroísmo - 9700
+	Altares
+	Cinco Ribeiras
+	Doze Ribeiras
+	Feteira
+	Nossa Senhora da Conceição
+	Porto Judeu
+	Posto Santo
+	Raminho
+	Ribeirinha
+	Santa Bárbara
+	Santa Luzia
+	São Bartolomeu de Regatos
+	São Bento
+	São Mateus
+	São Pedro
+	Sé
+	Serreta
+	Terra Chã
+	Vila de São Sebastião
+	- Calheta - 9850
+	Calheta
+	Norte Pequeno
+	Ribeira Seca
+	Santo Antão
+	Topo Nossa Senhora Rosário
+	- Corvo - 9980
+	Corvo
+	- Horta - 9900
+	Angústias (Horta)
+	Capelo
+	Castelo Branco
+	Cedros
+	Conceição (Horta)
+	Feteira
+	Flamengos
+	Horta (Matriz)
+	Pedro Miguel
+	Praia do Almoxarife
+	Praia do Norte
+	Ribeirinha
+	Salão
+	- Lajes das Flores - 9960
+	Fajã Grande
+	Fajãzinha
+	Fazenda
+	Lajedo
+	Lajes das Flores
+	Lomba
+	Mosteiro
+	- Lajes do Pico - 9930
+	Calheta de Nesquim
+	Lajes do Pico
+	Piedade
+	Ribeiras
+	Ribeirinha
+	São João
+	- Lagoa - 9560
+	Água de Pau
+	Cabouco
+	Nossa Senhora do Rosário
+	Ribeira Chã
+	Santa Cruz
+	- Madalena - 9950
+	Bandeiras
+	Candelária
+	Criação Velha
+	Madalena
+	São Caetano
+	São Mateus
+	- Nordeste - 9630
+	Achada
+	Achadinha
+	Algarvia
+	Lomba da Fazenda
+	Nordeste
+	Salga
+	Santana
+	Santo António de Nordestinho
+	São Pedro de Nordestinho
+	- Ponta Delgada - 9500
+	Ajuda da Bretanha
+	Arrifes
+	Candelária
+	Capelas
+	Covoada
+	Fajã de Baixo
+	Fajã de Cima
+	Fenais da Luz
+	Feteiras
+	Ginetes
+	Mosteiros
+	Pilar da Bretanha
+	Ponta Delgada (Santa Clara)
+	Ponta Delgada (São Sebastião)
+	Relva
+	Remédios
+	Rosto de Cão (Livramento)
+	Rosto de Cão (São Roque)
+	Santa Bárbara
+	Santo António
+	São José
+	São Pedro
+	São Vicente Ferreira
+	Sete Cidades
+	- Povoação - 9650
+	Água Retorta
+	Faial da Terra
+	Furnas
+	Nossa Senhora dos Remédios
+	Povoação
+	Ribeira Quente
+	- Praia da Vitória - 9760
+	Agualva
+	Biscoitos
+	Cabo da Praia
+	Fonte do Bastardo
+	Fontinhas
+	Lajes
+	Porto Martins
+	Praia da Vitória (Santa Cruz)
+	Quatro Ribeiras
+	São Brás
+	Vila Nova
+	- Ribeira Grande - 9600
+	Calhetas
+	Conceição
+	Fenais da Ajuda
+	Lomba da Maia
+	Lomba de São Pedro
+	Maia
+	Pico da Pedra
+	Porto Formoso
+	Rabo de Peixe
+	Ribeira Grande (Matriz)
+	Ribeira Seca
+	Ribeirinha
+	Santa Bárbara
+	São Brás
+	- Santa Cruz das Flores - 9970
+	Caveira
+	Cedros
+	Ponta Delgada
+	Santa Cruz das Flores
+	- Santa Cruz da Graciosa - 9980
+	Guadalupe
+	Luz
+	Santa Cruz da Graciosa
+	São Mateus
+	- São Roque do Pico - 9940
+	Prainha
+	Santa Luzia
+	Santo Amaro
+	Santo António
+	São Roque do Pico
+	- Velas - 9800
+	Norte Grande (Neves)
+	Rosais
+	Santa Bárbara (Manadas)
+	Santo Amaro
+	São Jorge (Velas)
+	Urzelina (São Mateus)
+	- Vila Franca do Campo - 9680
+	Água de Alto
+	Ponta Garça
+	Ribeira das Tainhas
+	Ribeira Seca
+	São Miguel
+	São Pedro
+	- Vila do Porto - 9580
+	Almagreira
+	Santa Bárbara
+	Santo Espírito
+	São Pedro
+	Vila do Porto
+COMARCA DE LISBOA
+	- Alcochete - 2890
+	Alcochete
+	Samouco
+	São Francisco
+	- Almada - 2820
+	Almada
+	Cacilhas
+	Caparica
+	Charneca da Caparica
+	Costa de Caparica
+	Cova da Piedade
+	Feijó
+	Laranjeiro
+	Pragal
+	Sobreda
+	Trafaria
+	- Barreiro - 2830
+	Alto do Seixalinho
+	Barreiro
+	Coina
+	Lavradio
+	Palhais
+	Santo André
+	Santo António da Charneca
+	Verderena
+	- Lisboa - 1000
+	Ajuda
+	Alcântara
+	Alto do Pina
+	Alvalade
+	Ameixoeira
+	Anjos
+	Beato
+	Benfica
+	Campo Grande
+	Campolide
+	Carnide
+	Castelo
+	Charneca
+	Coração de Jesus
+	Encarnação
+	Graça
+	Lapa
+	Lumiar
+	Madalena
+	Mártires
+	Marvila
+	Mercês
+	Nossa Senhora de Fátima
+	Pena
+	Penha de França
+	Prazeres
+	Sacramento
+	Santa Catarina
+	Santa Engrácia
+	Santa Isabel
+	Santa Justa
+	Santa Maria de Belém
+	Santa Maria dos Olivais
+	Santiago
+	Santo Condestável
+	Santo Estevão
+	Santos-o-Velho
+	São Cristóvão
+	São Domingos de Benfica
+	São Francisco Xavier
+	São João
+	São João de Brito
+	São João de Deus
+	São Jorge de Arroios
+	São José
+	São Mamede
+	São Miguel
+	São Nicolau
+	São Paulo
+	São Sebastião da Pedreira
+	São Vicente de Fora
+	Sé
+	Socorro
+	- Moita - 2860
+	Alhos Vedros
+	Baixa da Banheira
+	Gaio-Rosário
+	Moita
+	Sarilhos Pequenos
+	Vale da Amoreira
+	- Montijo - 2870
+	Afonsoeiro
+	Alto Estanqueiro-Jardia
+	Atalaia
+	Canha
+	Montijo
+	Pegões
+	Santo Isidro de Pegões
+	Sarilhos Grandes
+	- Seixal - 2840
+	Aldeia de Paio Pires
+	Amora
+	Arrentela
+	Corroios
+	Fernão Ferro
+	Seixal
+COMARCA DE LISBOA NORTE
+	- Alenquer - 2580
+	Abrigada
+	Aldeia Galega da Merceana
+	Aldeia Gavinha
+	Cabanas de Torres
+	Cadafais
+	Carnota
+	Carregado
+	Meca
+	Olhalvo
+	Ota
+	Pereiro de Palhacana
+	Ribafria
+	Santo Estevão
+	Triana
+	Ventosa
+	Vila Verde dos Francos
+	- Arruda dos Vinhos - 2630
+	Arranhó
+	Arruda dos Vinhos
+	Cardosas
+	Santiago dos Velhos
+	- Azambuja - 2050
+	Alcoentre
+	Aveiras de Baixo
+	Aveiras de Cima
+	Azambuja
+	Maçussa
+	Manique do Intendente
+	Vale do Paraíso
+	Vila Nova da Rainha
+	Vila Nova de São Pedro
+	- Cadaval - 2550
+	Alguber
+	Cadaval
+	Cercal
+	Figueiros
+	Lamas
+	Painho
+	Peral
+	Pêro Moniz
+	Vermelha
+	Vilar
+	- Loures - 2670
+	Apelação
+	Bobadela
+	Bucelas
+	Camarate
+	Fanhões
+	Frielas
+	Loures
+	Lousa
+	Moscavide
+	Portela
+	Prior Velho
+	Sacavém
+	Santa Iria de Azoia
+	Santo Antão do Tojal
+	Santo António de Cavaleiros
+	São João da Talha
+	São Julião do Tojal
+	Unhos
+	- Lourinhã - 2530
+	Atalaia
+	Lourinhã
+	Marteleira
+	Miragaia
+	Moita dos Ferreiros
+	Moledo
+	Reguengo Grande
+	Ribamar
+	Santa Bárbara
+	São Bartolomeu Galegos
+	Vimeiro
+	- Odivelas - 2675
+	Caneças
+	Famões
+	Odivelas
+	Olival Basto
+	Pontinha
+	Póvoa de Santo Adrião
+	Ramada
+	- Sobral de Monte Agraço - 2590
+	São Quintino
+	Sapataria
+	Sobral de Monte Agraço
+	- Torres Vedras - 2560
+	A dos Cunhados
+	Campelos
+	Carmões
+	Carvoeira
+	Dois Portos
+	Freiria
+	Maceira
+	Matacães
+	Maxial
+	Monte Redondo
+	Outeiro da Cabeça
+	Ponte do Rol
+	Ramalhal
+	Runa
+	Santa Maria e São Miguel
+	São Pedro da Cadeira
+	São Pedro e São Tiago
+	Silveira
+	Turcifal
+	Ventosa
+	- Vila Franca de Xira - 2600
+	Alhandra
+	Alverca do Ribatejo
+	Cachoeiras
+	Calhandriz
+	Castanheira do Ribatejo
+	Forte da Casa
+	Póvoa de Santa Iria
+	São João dos Montes
+	Sobralinho
+	Vialonga
+	Vila Franca de Xira
+COMARCA DE LISBOA OESTE
+	- Amadora - 2700
+	Alfornelos
+	Alfragide
+	Brandoa
+	Buraca
+	Damaia
+	Falagueira
+	Mina
+	Reboleira
+	São Brás
+	Venda Nova
+	Venteira
+	- Cascais - 2750
+	Alcabideche
+	Carcavelos
+	Cascais
+	Estoril
+	Parede
+	São Domingos de Rana
+	- Mafra - 2640
+	Azueira
+	Carvoeira
+	Cheleiros
+	Encarnação
+	Enxara do Bispo
+	Ericeira
+	Gradil
+	Igreja Nova
+	Mafra
+	Malveira
+	Milharado
+	Santo Estevão das Galés
+	Santo Isidoro
+	São Miguel de Alcainça
+	Sobral da Abelheira
+	Venda do Pinheiro
+	Vila Franca do Rosário
+	- Oeiras - 2780
+	Algés
+	Barcarena
+	Carnaxide
+	Caxias
+	Cruz Quebrada-Dafundo
+	Linda a Velha
+	Oeiras e São Julião Barra
+	Paço de Arcos
+	Porto Salvo
+	Queijas
+	- Sintra - 2710
+	Agualva
+	Algueirão-Mem Martins
+	Almargem do Bispo
+	Belas
+	Cacém
+	Casal de Cambra
+	Colares
+	Massamá
+	Mira-Sintra
+	Monte Abraão
+	Montelavar
+	Pero Pinheiro
+	Queluz
+	Rio de Mouro
+	Santa Maria e São Miguel
+	São João das Lampas
+	São Marcos
+	São Martinho
+	São Pedro Penaferrim
+	Terrugem
+COMARCA DA MADEIRA
+	- Calheta - 9370
+	Arco da Calheta
+	Calheta
+	Estreito da Calheta
+	Fajã da Ovelha
+	Jardim do Mar
+	Paul do Mar
+	Ponta do Pargo
+	Prazeres
+	- Câmara de Lobos - 9300
+	Câmara de Lobos
+	Curral das Freiras
+	Estreito Câmara de Lobos
+	Jardim da Serra
+	Quinta Grande
+	- Funchal - 9000
+	Imaculado Coração Maria
+	Monte
+	Santa Luzia
+	Santa Maria Maior
+	Santo António
+	São Gonçalo
+	São Martinho
+	São Pedro
+	São Roque
+	Sé
+	- Machico - 9200
+	Água de Pena
+	Caniçal
+	Machico
+	Porto da Cruz
+	Santo António da Serra
+	- Ponta do Sol - 9360
+	Canhas
+	Madalena do Mar
+	Ponta do Sol
+	- Porto Moniz - 9270
+	Achadas da Cruz
+	Porto Moniz
+	Ribeira da Janela
+	Seixal
+	- Porto Santo - 9400
+	Porto Santo
+	- Ribeira Brava - 9350
+	Campanário
+	Ribeira Brava
+	Serra de Água
+	Tabua
+	- Santa Cruz - 9100
+	Camacha
+	Caniço
+	Gaula
+	Santa Cruz
+	Santo António da Serra
+	- Santana - 9230
+	Arco de São Jorge
+	Faial
+	Ilha
+	Santana
+	São Jorge
+	São Roque do Faial
+	- São Vicente - 9240
+	Boa Ventura
+	Ponta Delgada
+	São Vicente

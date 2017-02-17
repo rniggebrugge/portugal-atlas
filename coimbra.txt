@@ -1,0 +1,1316 @@
+TRIBUNAL DA RELAÇÃO DE COIMBRA 
+COMARCA DE CASTELO BRANCO
+	- Belmonte - 6250
+	Belmonte
+	Caria
+	Colmeal da Torre
+	Inguias
+	Maçaínhas
+	- Castelo Branco - 6000
+	Alcains
+	Almaceda
+	Benquerenças
+	Cafede
+	Castelo Branco
+	Cebolais de Cima
+	Escalos de Baixo
+	Escalos de Cima
+	Freixial do Campo
+	Juncal do Campo
+	Lardosa
+	Louriçal do Campo
+	Lousa
+	Malpica do Tejo
+	Mata
+	Monforte da Beira
+	Ninho do Açor
+	Póvoa de Rio de Moinhos
+	Retaxo
+	Salgueiro do Campo
+	Santo André das Tojeiras
+	São Vicente da Beira
+	Sarzedas
+	Sobral do Campo
+	Tinalhas
+	- Covilhã - 6200
+	Aldeia do Souto
+	Aldeia São Francisco Assis
+	Barco
+	Boidobra
+	Canhoso
+	Cantar-Galo
+	Casegas
+	Conceição
+	Cortes do Meio
+	Coutada
+	Dominguizo
+	Erada
+	Ferro
+	Orjais
+	Ourondo
+	Paul
+	Peraboa
+	Peso
+	Santa Maria
+	São Jorge da Beira
+	São Martinho
+	São Pedro
+	Sarzedo
+	Sobral de São Miguel
+	Teixoso
+	Tortosendo
+	Unhais da Serra
+	Vale Formoso
+	Vales do Rio
+	Verdelhos
+	Vila do Carvalho
+	- Fundão - 6230
+	Alcaide
+	Alcaria
+	Alcongosta
+	Aldeia de Joanes
+	Aldeia Nova do Cabo
+	Alpedrinha
+	Atalaia do Campo
+	Barroca
+	Bogas de Baixo
+	Bogas de Cima
+	Capinha
+	Castelejo
+	Castelo Novo
+	Donas
+	Enxames
+	Escarigo
+	Fatela
+	Fundão
+	Janeiro de Cima
+	Lavacolhos
+	Mata da Rainha
+	Orca
+	Pêro Viseu
+	Póvoa de Atalaia
+	Salgueiro
+	Silvares
+	Soalheira
+	Souto da Casa
+	Telhado
+	Vale de Prazeres
+	Valverde
+	- Idanha-a-Nova - 6060
+	Alcafozes
+	Aldeia de Santa Margarida
+	Idanha-a-Nova
+	Idanha-a-Velha
+	Ladoeiro
+	Medelim
+	Monfortinho
+	Monsanto
+	Oledo
+	Penha Garcia
+	Proença-a-Velha
+	Rosmaninhal
+	Salvaterra do Extremo
+	São Miguel de Acha
+	Segura
+	Toulões
+	Zebreira
+	- Oleiros - 6160
+	Álvaro
+	Amieira
+	Cambas
+	Estreito
+	Isna
+	Madeirã
+	Mosteiro
+	Oleiros
+	Orvalho
+	Sarnadas de São Simão
+	Sobral
+	Vilar Barroco
+	- Penamacor - 6090
+	Águas
+	Aldeia de João Pires
+	Aldeia do Bispo
+	Aranhas
+	Bemposta
+	Benquerença
+	Meimão
+	Meimoa
+	Pedrógão de São Pedro
+	Penamacor
+	Salvador
+	Vale da Senhora da Póvoa
+	- Proença-a-Nova - 6150
+	Alvito da Beira
+	Montes da Senhora
+	Peral
+	Proença-a-Nova
+	São Pedro do Esteval
+	Sobreira Formosa
+	- Sertã - 6100
+	Cabeçudo
+	Carvalhal
+	Castelo
+	Cernache do Bonjardim
+	Cumeada
+	Ermida
+	Figueiredo
+	Marmeleiro
+	Nesperal
+	Palhais
+	Pedrógão Pequeno
+	Sertã
+	Troviscal
+	Várzea dos Cavaleiros
+	- Vila de Rei - 6110
+	Fundada
+	São João do Peso
+	Vila de Rei
+	- Vila Velha de Rodão - 6030
+	Fratel
+	Perais
+	Sarnadas de Rodão
+	Vila Velha de Ródão
+COMARCA DE COIMBRA
+	- Arganil - 3300
+	Anceriz
+	Arganil
+	Barril de Alva
+	Benfeita
+	Celavisa
+	Cepos
+	Cerdeira
+	Coja
+	Folques
+	Moura da Serra
+	Piódão
+	Pomares
+	Pombeiro da Beira
+	São Martinho da Cortiça
+	Sarzedo
+	Secarias
+	Teixeira
+	Vila Cova de Alva
+	- Cantanhede - 3060
+	Ançã
+	Bolho
+	Cadima
+	Camarneira
+	Cantanhede
+	Cordinhã
+	Corticeiro de Cima
+	Covões
+	Febres
+	Murtede
+	Ourentã
+	Outil
+	Pocariça
+	Portunhos
+		Sanguinheira
+		São Caetano
+	Sepins
+	Tocha
+	Vilamar
+	- Coimbra - 3004
+	Almalaguês
+	Almedina
+	Ameal
+	Antanhol
+	Antuzede
+	Arzila
+	Assafarge
+	Botão
+	Brasfemes
+	Castelo Viegas
+	Ceira
+	Cernache
+	Eiras
+	Lamarosa
+	Ribeira de Frades
+	Santa Clara
+	Santa Cruz
+	Santo António dos Olivais
+	São Bartolomeu
+	São João do Campo
+	São Martinho de Árvore
+	São Martinho do Bispo
+	São Paulo de Frades
+	São Silvestre
+	Sé Nova
+	Souselas
+	Taveiro
+	Torre de Vilela
+	Torres do Mondego
+	Trouxemil
+	Vil de Matos
+	- Condeixa-a-Nova - 3150
+	Anobra
+	Belide
+	Bem da Fé
+	Condeixa-a-Nova
+	Condeixa-a-Velha
+	Ega
+	Furadouro
+	Sebal
+	Vila Seca
+	Zambujal
+	- Figueira da Foz - 3080
+	Alhadas
+	Alqueidão
+	Bom Sucesso
+	Borda do Campo
+	Brenha
+	Buarcos
+	Ferreira-a-Nova
+	Lavos
+	Maiorca
+	Marinha das Ondas
+	Moinhos da Gândara
+	Paião
+	Quiaios
+	Santana
+	São Julião (Figueira da Foz)
+	São Pedro
+	Tavarede
+	Vila Verde
+	- Góis - 3330
+	Alvares
+	Cadafaz
+	Colmeal
+	Góis
+	Vila Nova do Ceira
+	- Lousã - 3200
+	Casal de Ermio
+	Foz de Arouce
+	Gândaras
+	Lousã
+	Serpins
+	Vilarinho
+	- Mira - 3070
+	Carapelhos
+	Mira
+	Praia de Mira
+	Seixo
+	- Miranda do Corvo - 3030
+	Lamas
+	Miranda do Corvo
+	Rio Vide
+	Semide
+	Vila Nova
+	- Montemor-o-Velho - 3140
+	Abrunheira
+	Arazede
+	Carapinheira
+	Ereira
+	Gatões
+	Liceia
+	Meãs do Campo
+	Montemor-o-Velho
+	Pereira
+	Santo Varão
+	Seixo de Gatões
+	Tentúgal
+	Verride
+	Vila Nova da Barca
+	- Oliveira do Hospital - 3400
+	Aldeia das Dez
+	Alvoco das Várzeas
+	Avô
+	Bobadela
+	Ervedal
+	Lagares da Beira
+	Lagos da Beira
+	Lajeosa
+	Lourosa
+	Meruge
+	Nogueira do Cravo
+	Oliveira do Hospital
+	Penalva de Alva
+	Santa Ovaia
+	São Gião
+	São Paio de Gramaços
+	São Sebastião da Feira
+	Seixo da Beira
+	Travanca de Lagos
+	Vila Franca da Beira
+	Vila Pouca da Beira
+	- Pampilhosa da Serra - 3320
+	Cabril
+	Dornelas do Zêzere
+	Fajão
+	Janeiro de Baixo
+	Machio
+	Pampilhosa da Serra
+	Pessegueiro
+	Portela do Fojo
+	Unhais-o-Velho
+	Vidual
+	- Penacova - 3360
+	Carvalho
+	Figueira de Lorvão
+	Friúmes
+	Lorvão
+	Oliveira do Mondego
+	Paradela
+	Penacova
+	São Paio do Mondego
+	São Pedro de Alva
+	Sazes do Lorvão
+	Travanca do Mondego
+	- Penela - 3230
+	Cumeeira
+	Espinhal
+	Podentes
+	Rabaçal
+	Santa Eufémia
+	São Miguel
+	- Soure - 3130
+	Alfarelos
+	Brunhós
+	Degracias
+	Figueiró do Campo
+	Gesteira
+	Granja do Ulmeiro
+	Pombalinho
+	Samuel
+	Soure
+	Tapéus
+	Vila Nova de Anços
+	Vinha da Rainha
+	- Tábua - 3420
+	Ázere
+	Candosa
+	Carapinha
+	Covas
+	Covelo
+	Espariz
+	Meda de Mouros
+	Midões
+	Mouronho
+	Pinheiro de Coja
+	Póvoa de Midões
+	São João da Boa Vista
+	Sinde
+	Tábua
+	Vila Nova de Oliveirinha
+	- Vila Nova de Poiares - 3350
+	Arrifana
+	Lavegadas
+	Poiares (Santo André)
+	São Miguel de Poiares
+COMARCA DA GUARDA
+	- Aguiar da Beira - 3570
+	Aguiar da Beira
+	Carapito
+	Cortiçada
+	Coruche
+	Dornelas
+	Eirado
+	Forninhos
+	Gradiz
+	Pena Verde
+	Pinheiro
+	Sequeiros
+	Souto de Aguiar da Beira
+	Valverde
+	- Almeida - 6350
+	Ade
+	Aldeia Nova
+	Almeida
+	Amoreira
+	Azinhal
+	Cabreira
+	Castelo Bom
+	Castelo Mendo
+	Freineda
+	Freixo
+	Junça
+	Leomil
+	Malhada Sorda
+	Malpartida
+	Mesquitela
+	Mido
+	Miuzela
+	Monte Perobolço
+	Nave de Haver
+	Naves
+	Parada
+	Peva
+	Porto de Ovelha
+	São Pedro de Rio Seco
+	Senouras
+	Vale da Mula
+	Vale de Coelha
+	Vale Verde
+	Vilar Formoso
+	- Celorico da Beira - 6360
+	Açores
+	Baraçal
+	Cadafaz
+	Carrapichana
+	Casas do Soeiro
+	Cortiçô da Serra
+	Forno Telheiro
+	Lajeosa do Mondego
+	Linhares
+	Maçal do Chão
+	Mesquitela
+	Minhocal
+	Prados
+	Rapa
+	Ratoeira
+	Salgueirais
+	Santa Maria
+	São Pedro
+	Vale de Azares
+	Velosa
+	Vide Entre Vinhas
+	Vila Boa do Mondego
+	- Figueira de Castelo Rodrigo - 6440
+	Algodres
+	Almofala
+	Castelo Rodrigo
+	Cinco Vilas
+	Colmeal
+	Escalhão
+	Escarigo
+	Figueira de Castelo Rodrigo
+	Freixeda do Torrão
+	Mata de Lobos
+	Penha de Águia
+	Quintã de Pêro Martins
+	Reigada
+	Vale de Afonsinho
+	Vermiosa
+	Vilar de Amargo
+	Vilar Torpim
+	- Fornos de Algodres - 6370
+	Algodres
+	Casal Vasco
+	Cortiçô
+	Figueiró da Granja
+	Fornos de Algodres
+	Fuinhas
+	Infias
+	Juncais
+	Maceira
+	Matança
+	Muxagata
+	Queiriz
+	Sobral Pichorro
+	Vila Chã
+	Vila Ruiva
+	Vila Soeiro do Chão
+	- Gouveia - 6290
+	Aldeias
+	Arcozelo
+	Cativelos
+	Figueiró da Serra
+	Folgosinho
+	Freixo da Serra
+	Lagarinhos
+	Mangualde da Serra
+	Melo
+	Moimenta da Serra
+	Nabais
+	Nespereira
+	Paços da Serra
+	Ribamondego
+	Rio Torto
+	São Julião
+	São Paio
+	São Pedro
+	Vila Cortes da Serra
+	Vila Franca da Serra
+	Vila Nova de Tazem
+	Vinhó
+	- Guarda - 6300
+	Adão
+	Albardo
+	Aldeia do Bispo
+	Aldeia Viçosa
+	Alvendre
+	Arrifana
+	Avelãs da Ribeira
+	Avelãs de Ambom
+	Benespera
+	Carvalhal Meão
+	Casal de Cinza
+	Castanheira
+	Cavadoude
+	Codesseiro
+	Corujeira
+	Faia
+	Famalicão
+	Fernão Joanes
+	Gagos
+	Gonçalo
+	Gonçalo Bocas
+	João Antão
+	Maçainhas
+	Marmeleiro
+	Meios
+	Mizarela
+	Monte Margarida
+	Panoias de Cima
+	Pega
+	Pêra do Moco
+	Pêro Soares
+	Porto da Carne
+	Pousada
+	Ramela
+	Ribeira dos Carinhos
+	Rocamondo
+	Rochoso
+	Santana da Azinha
+	São Miguel da Guarda
+	São Miguel Jarmelo
+	São Pedro Jarmelo
+	São Vicente
+	Sé
+	Seixo Amarelo
+	Sobral da Serra
+	Trinta
+	Vale de Estrela
+	Valhelhas
+	Vela
+	Videmonte
+	Vila Cortês do Mondego
+	Vila Fernando
+	Vila Franca do Deão
+	Vila Garcia
+	Vila Soeiro
+	- Manteigas - 6260
+	Sameiro
+	Santa Maria
+	São Pedro
+	Vale de Amoreira
+	- Meda - 6430
+	Aveloso
+	Barreira
+	Carvalhal
+	Casteição
+	Coriscada
+	Fonte Longa
+	Longroiva
+	Marialva
+	Meda
+	Outeiro de Gatos
+	Pai Penela
+	Poço do Canto
+	Prova
+	Rabaçal
+	Ranhados
+	Vale Flor
+	- Pinhel - 6400
+	Alverca da Beira
+	Atalaia
+	Azevo
+	Bogalhal
+	Bouça Cova
+	Cerejo
+	Cidadelhe
+	Ervas Tenras
+	Ervedosa
+	Freixedas
+	Gouveia
+	Lamegal
+	Lameiras
+	Manigoto
+	Pala
+	Pereiro
+	Pinhel
+	Pínzio
+	Pomares
+	Póvoa de El-Rei
+	Safurdão
+	Santa Eufémia
+	Sorval
+	Souro Pires
+	Valbom
+	Vale da Madeira
+	Vascoveiro
+	- Sabugal - 6320
+	Águas Belas
+	Aldeia da Ponte
+	Aldeia da Ribeira
+	Aldeia de Santo António
+	Aldeia do Bispo
+	Aldeia Velha
+	Alfaiates
+	Badamalos
+	Baraçal
+	Bendada
+	Bismula
+	Casteleiro
+	Cerdeira
+	Foios
+	Forcalhos
+	Lajeosa
+	Lomba
+	Malcata
+	Moita
+	Nave
+	Pena Lobo
+	Pousafoles do Bispo
+	Quadrazais
+	Quintas de São Bartolomeu
+	Rapoula do Coa
+	Rebolosa
+	Rendo
+	Ruivós
+	Ruvina
+	Sabugal
+	Santo Estevão
+	Seixo do Coa
+	Soito
+	Sortelha
+	Vale das Éguas
+	Vale de Espinho
+	Vale Longo
+	Vila Boa
+	Vila do Touro
+	Vilar Maior
+	
+	- Seia - 6270
+	Alvoco da Serra
+	Cabeça
+	Carragozela
+	Folhadosa
+	Girabolhos
+	Lajes
+	Lapa dos Dinheiros
+	Loriga
+	Paranhos
+	Pinhanços
+	Sabugueiro
+	Sameice
+	Sandomil
+	Santa Comba
+	Santa Eulália
+	Santa Marinha
+	Santiago
+	São Martinho
+	São Romão
+	Sazes da Beira
+	Seia
+	Teixeira
+	Torrozelo
+	Tourais
+	Travancinha
+	Valezim
+	Várzea de Meruge
+	Vide
+	Vila Cova à Coelheira
+	- Trancoso - 6420
+	Aldeia Nova
+	Carnicães
+	Castanheira
+	Cogula
+	Cótimos
+	Feital
+	Fiães
+	Freches
+	Granja
+	Guilheiro
+	Moimentinha
+	Moreira de Rei
+	Palhais
+	Póvoa do Concelho
+	Reboleiro
+	Rio de Mel
+	Santa Maria
+	São Pedro
+	Sebadelhe da Serra
+	Souto Maior
+	Tamanhos
+	Terrenho
+	Torre do Terrenho
+	Torres
+	Valdujo
+	Vale do Seixo
+	Vila Franca das Naves
+	Vila Garcia
+	Vilares
+	- Vila Nova de Foz Côa - 5150
+	Almendra
+	Castelo Melhor
+	Cedovim
+	Chãs
+	Custóias
+	Freixo de Numão
+	Horta
+	Mós
+	Murça
+	Muxagata
+	Numão
+	Santa Comba
+	Santo Amaro
+	Sebadelhe
+	Seixas
+	Touca
+	Vila Nova de Foz Côa
+COMARCA DE LEIRIA
+	- Alcobaça - 2460
+	Alcobaça
+	Alfeizerão
+	Aljubarrota (Prazeres)
+	Aljubarrota (São Vicente)
+	Alpedriz
+	Bárrio
+	Benedita
+	Cela
+	Coz
+	Évora de Alcobaça
+	Maiorga
+	Martingança
+	Montes
+	Pataias
+	São Martinho do Porto
+	Turquel
+	Vestiaria
+	Vimeiro
+	
+	- Alvaiázere - 3250
+	Almoster
+	Alvaiázere
+	Maçãs de Caminho
+	Maçãs de Dona Maria
+	Pelmá
+	Pussos
+	Rego da Murta
+	
+	- Ansião - 3240
+	Alvorge
+	Ansião
+	Avelar
+	Chão de Couce
+	Lagarteira
+	Pousaflores
+	Santiago da Guarda
+	Torre de Vale de Todos
+	- Batalha - 2440
+	Batalha
+	Golpilheira
+	Reguengo do Fetal
+	São Mamede
+	- Bombarral - 2540
+	Bombarral
+	Carvalhal
+	Pó
+	Roliça
+	Vale Covo
+	- Caldas da Rainha - 2500
+	A dos Francos
+	Alvorninha
+	Carvalhal Benfeito
+	Coto
+	Foz do Arelho
+	Landal
+	Nadadouro
+	Nossa Senhora do Pópulo
+	Salir de Matos
+	Salir do Porto
+	Santa Catarina
+	Santo Onofre
+	São Gregório
+	Serra do Bouro
+	Tornada
+	Vidais
+	- Castanheira de Pera - 3280
+	Castanheira de Pêra
+	Coentral
+	- Figueiró dos Vinhos - 3260
+	Aguda
+	Arega
+	Bairradas
+	Campelo
+	Figueiró dos Vinhos
+	- Leiria - 2415
+	Amor
+	Arrabal
+	Azoia
+	Bajouca
+	Barosa
+	Barreira
+	Bidoeira de Cima
+	Boa Vista
+	Caranguejeira
+	Carreira
+	Carvide
+	Chainça
+	Coimbrão
+	Colmeias
+	Cortes
+	Leiria
+	Maceira
+	Marrazes
+	Memória
+	Milagres
+	Monte Real
+	Monte Redondo
+	Ortigosa
+	Parceiros
+	Pousos
+	Regueira de Pontes
+	Santa Catarina da Serra
+	Santa Eufémia
+	Souto da Carpalhosa
+	- Marinha Grande - 2430
+	Marinha Grande
+	Moita
+	Vieira de Leiria
+	 - Nazaré - 2450
+	Famalicão
+	Nazaré
+	Valado dos Frades
+	- Óbidos - 2510
+	A dos Negros
+	Amoreira
+	Gaeiras
+	Olho Marinho
+	Santa Maria (Óbidos)
+	São Pedro (Óbidos)
+	Sobral da Lagoa
+	Usseira
+	Vau
+	- Pedrogão Grande - 3270
+	Graça
+	Pedrógão Grande
+	Vila Facaia
+	- Peniche - 2520
+	Ajuda
+	Atouguia da Baleia
+	Conceição
+	Ferrel
+	São Pedro
+	Serra D'El Rei
+	- Pombal - 3100
+	Abiul
+	Albergaria dos Doze
+	Almagreira
+	Carnide
+	Carriço
+	Guia
+	Ilha
+	Louriçal
+	Mata Mourisca
+	Meirinhas
+	Pelariga
+	Pombal
+	Redinha
+	Santiago de Litém
+	São Simão de Litém
+	Vermoil
+	Vila Cã
+	- Porto de Mós - 2480
+	Alcaria
+	Alqueidão da Serra
+	Alvados
+	Arrimal
+	Calvaria de Cima
+	Juncal
+	Mendiga
+	Mira de Aire
+	Pedreiras
+	São Bento
+	São João Batista
+	São Pedro
+	Serro Ventoso
+COMARCA DE VISEU
+	- Armamar - 5110
+	Aldeias
+	Aricera
+	Armamar
+	Cimbres
+	Coura
+	Folgosa
+	Fontelo
+	Goujoim
+	Queimada
+	Queimadela
+	Santa Cruz
+	Santiago
+	Santo Adrião
+	São Cosmado
+	São Martinho das Chãs
+	São Romão
+	Tões
+	Vacalar
+	Vila Seca
+	- Carregal do Sal - 3430
+	Beijós
+	Cabanas de Viriato
+	Currelos
+	Oliveira do Conde
+	Papízios
+	Parada
+	Sobral
+	- Castro Daire - 3600
+	Almofala
+	Alva
+	Cabril
+	Castro Daire
+	Cujó
+	Ermida
+	Ester
+	Gafanhão
+	Gosende
+	Mamouros
+	Mezio
+	Mões
+	Moledo
+	Monteiras
+	Moura Morta
+	Parada de Ester
+	Pepim
+	Picão
+	Pinheiro
+	Reriz
+	Ribolhos
+	São Joaninho
+	- Cinfães - 4690
+	Alhões
+	Bustelo
+	Cinfães
+	Espadanedo
+	Ferreiros de Tendais
+	Fornelos
+	Gralheira
+	Moimenta
+	Nespereira
+	Oliveira
+	Ramires
+	Santiago de Piães
+	São Cristóvão de Nogueira
+	Souselo
+	Tarouquela
+	Tendais
+	Travanca
+	- Lamego - 5100
+	Almacave
+	Avões
+	Bigorne
+	Britiande
+	Cambres
+	Cepões
+	Ferreirim
+	Ferreiros de Avões
+	Figueira
+	Lalim
+	Lazarim
+	Magueija
+	Meijinhos
+	Melcões
+	Parada do Bispo
+	Penajóia
+	Penude
+	Pretarouca
+	Samodães
+	Sande
+	Sé
+	Valdigem
+	Várzea de Abrunhais
+	Vila Nova Souto D'El-Rei
+	- Mangualde - 3530
+	Abrunhosa-a-Velha
+	Alcafache
+	Chãs de Tavares
+	Cunha Alta
+	Cunha Baixa
+	Espinho
+	Fornos de Maceira Dão
+	Freixiosa
+	Lobelhe do Mato
+	Mangualde
+	Mesquitela
+	Moimenta Maceira Dão
+	Póvoa de Cervães
+	Quintela de Azurara
+	Santiago de Cassurrães
+	São João da Fresta
+	Travanca de Tavares
+	Várzea de Tavares
+	- Moimenta da Beira - 3620
+	Aldeia de Nacomba
+	Alvite
+	Arcozelos
+	Ariz
+	Baldos
+	Cabaços
+	Caria
+	Castelo
+	Leomil
+	Moimenta da Beira
+	Nagosa
+	Paradinha
+	Passô
+	Pêra Velha
+	Peva
+	Rua
+	Sarzedo
+	Segões
+	Sever
+	Vilar
+	- Mortágua - 3450
+	Almaça
+	Cercosa
+	Cortegaça
+	Espinho
+	Marmeleira
+	Mortágua
+	Pala
+	Sobral
+	Trezói
+	Vale de Remígio
+	- Nelas - 3520
+	Aguieira
+	Canas de Senhorim
+	Carvalhal Redondo
+	Lapa do Lobo
+	Moreira
+	Nelas
+	Santar
+	Senhorim
+	Vilar Seco
+	- Oliveira de Frades - 3680
+	Arca
+	Arcozelo das Maias
+	Destriz
+	Oliveira de Frades
+	Pinheiro
+	Reigoso
+	Ribeiradio
+	São João da Serra
+	São Vicente de Lafões
+	Sejães
+	Souto de Lafões
+	Varzielas
+	- Penalva do Castelo - 3550
+	Antas
+	Castelo de Penalva
+	Esmolfe
+	Germil
+	Insua
+	Lusinde
+	Mareco
+	Matela
+	Pindo
+	Real
+	Sezures
+	Trancozelos
+	Vila Cova do Covelo
+	- Penedono - 3630
+	Antas
+	Beselga
+	Castainço
+	Granja
+	Ourozinho
+	Penedono
+	Penela da Beira
+	Póvoa de Penela
+	Souto
+	- Resende - 4660
+	Anreade
+	Barrô
+	Cárquere
+	Feirão
+	Felgueiras
+	Freigil
+	Miomães
+	Ovadas
+	Panchorra
+	Paus
+	Resende
+	São Cipriano
+	São João de Fontoura
+	São Martinho de Mouros
+	São Romão de Aregos
+	- Santa Comba Dão - 3440
+	Couto do Mosteiro
+	Nagosela
+	Óvoa
+	Pinheiro de Ázere
+	Santa Comba Dão
+	São Joaninho
+	São João de Areias
+	Treixedo
+	Vimieiro
+	- São João da Pesqueira - 5130
+	Castanheiro do Sul
+	Ervedosa do Douro
+	Espinhosa
+	Nagoselo do Douro
+	Paredes da Beira
+	Pereiros
+	Riodades
+	São João da Pesqueira
+	Soutelo do Douro
+	Trevões
+	Vale de Figueira
+	Valongo dos Azeites
+	Várzea de Trevões
+	Vilarouco
+	- São Pedro do Sul - 3660
+	Baiões
+	Bordonhos
+	Candal
+	Carvalhais
+	Covas do Rio
+	Figueiredo de Alva
+	Manhouce
+	Pindelo dos Milagres
+	Pinho
+	Santa Cruz da Trapa
+	São Cristóvão de Lafões
+	São Félix
+	São Martinho das Moitas
+	São Pedro do Sul
+	Serrazes
+	Sul
+	Valadares
+	Várzea
+	Vila Maior
+	- Sátão - 3560
+	Águas Boas
+	Avelal
+	Decermilo
+	Ferreira de Aves
+	Forles
+	Mioma
+	Rio de Moinhos
+	Romãs
+	São Miguel de Vila Boa
+	Sátão
+	Silvã de Cima
+	Vila Longa
+	- Sernancelhe - 3640
+	Arnas
+	Carregal
+	Chosendo
+	Cunha
+	Escurquela
+	Faia
+	Ferreirim
+	Fonte Arcada
+	Freixinho
+	Granjal
+	Lamosa
+	Macieira
+	Penso
+	Quintela
+	Sarzeda
+	Sernancelhe
+	Vila da Ponte
+	- Tabuaço - 5120
+	Adorigo
+	Arcos
+	Barcos
+	Chavães
+	Desejosa
+	Granja do Tedo
+	Granjinha
+	Longa
+	Paradela
+	Pereiro
+	Pinheiros
+	Santa Leocádia
+	Sendim
+	Tabuaço
+	Távora
+	Vale de Figueira
+	Valença do Douro
+	- Tarouca - 3610
+	Dalvares
+	Gouviães
+	Granja Nova
+	Mondim da Beira
+	Salzedas
+	São João de Tarouca
+	Tarouca
+	Ucanha
+	Várzea da Serra
+	Vila Chã da Beira
+	- Tondela - 3460
+	Barreiro de Besteiros
+	Campo de Besteiros
+	Canas de Santa Maria
+	Caparrosa
+	Castelões
+	Dardavaz
+	Ferreirós do Dão
+	Guardão
+	Lajeosa do Dão
+	Lobão da Beira
+	Molelos
+	Mosteirinho
+	Mosteiro de Fráguas
+	Mouraz
+	Nandufe
+	Parada de Gonta
+	Sabugosa
+	Santiago de Besteiros
+	São João do Monte
+	São Miguel do Outeiro
+	Silvares
+	Tonda
+	Tondela
+	Tourigo
+	Vila Nova da Rainha
+	Vilar de Besteiros
+	- Vila Nova de Paiva - 3650
+	Alhais
+	Fráguas
+	Pendilhe
+	Queiriga
+	Touro
+	Vila Cova à Coelheira
+	Vila Nova de Paiva
+	- Viseu - 3504
+	Abraveses
+	Barreiros
+	Boa Aldeia
+	Bodiosa
+	Calde
+	Campo
+	Cavernães
+	Cepões
+	Coração de Jesus
+	Cota
+	Couto de Baixo
+	Couto de Cima
+	Fail
+	Farminhão
+	Fragosela
+	Lordosa
+	Mundão
+	Orgens
+	Povolide
+	Ranhados
+	Repeses
+	Ribafeita
+	Rio de Loba
+	Santa Maria
+	Santos Evos
+	São Cipriano
+	São João de Lourosa
+	São José
+	São Pedro de France
+	São Salvador
+	Silgueiros
+	Torredeita
+	Vil de Souto
+	Vila Chã de Sá
+	- Vouzela - 3670
+	Alcofra
+	Cambra
+	Campia
+	Carvalhal de Vermilhas
+	Fataúnços
+	Figueiredo das Donas
+	Fornelo do Monte
+	Paços de Vilharigues
+	Queirã
+	São Miguel do Mato
+	Ventosa
+	Vouzela

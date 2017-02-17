@@ -1,0 +1,691 @@
+TRIBUNAL DA RELAÇÃO DE EVORA
+COMARCA DE BEJA
+	- Aljustrel - 7600
+	Aljustrel
+	Ervidel
+	Messejana
+	Rio de Moinhos
+	São João de Negrilhos
+	- Almodôvar - 7700
+	Aldeia dos Fernandes
+	Almodôvar
+	Gomes Aires
+	Rosário
+	Santa Clara-a-Nova
+	Santa Cruz
+	São Barnabé
+	Senhora da Graça de Padrões
+	- Alvito - 7920
+	Alvito
+	Vila Nova da Baronia
+	- Barrancos - 7230
+	Barrancos
+	- Beja -7800
+	Albernoa
+	Baleizão
+	Beringel
+	Cabeça Gorda
+	Mombeja
+	Nossa Senhora das Neves
+	Quintos
+	Salvada
+	Salvador
+	Santa Clara de Louredo
+	Santa Maria da Feira
+	Santa Vitória
+	Santiago Maior
+	São Brissos
+	São João Baptista
+	São Matias
+	Trigaches
+	Trindade
+	- Castro Verde - 7780
+	Casével
+	Castro Verde
+	Entradas
+	Santa Bárbara de Padrões
+	São Marcos da Ataboeira
+	- Cuba - 7940
+	Cuba
+	Faro do Alentejo
+	Vila Alva
+	Vila Ruiva
+	- Ferreira do Alentejo - 7900
+	Alfundão
+	Canhestros
+	Ferreira do Alentejo
+	Figueira dos Cavaleiros
+	Odivelas
+	Peroguarda
+	- Mértola - 7750
+	Alcaria Ruiva
+	Corte do Pinto
+	Espírito Santo
+	Mértola
+	Santana de Cambas
+	São João dos Caldeireiros
+	São Miguel do Pinheiro
+	São Pedro de Solis
+	São Sebastião dos Carros
+	- Moura - 7860
+	Amareleja
+	Póvoa de São Miguel
+	Safara
+	Santo Agostinho
+	Santo Aleixo da Restauração
+	Santo Amador
+	São João Baptista
+	Sobral da Adiça
+	- Odemira - 7630
+	Bicos
+	Boavista dos Pinheiros
+	Colos
+	Longueira/Almograve
+	Luzianes-Gare
+	Pereiras-Gare
+	Relíquias
+	Sabóia
+	Santa Clara-a-Velha
+	Santa Maria
+	São Luís
+	São Martinho das Amoreiras
+	São Salvador
+	São Teotónio
+	Vale de Santiago
+	Vila Nova de Milfontes
+	Zambujeira do Mar
+	- Ourique - 7630
+	Conceição
+	Garvão
+	Ourique
+	Panoias
+	Santa Luzia
+	Santana da Serra
+	- Serpa - 7830
+	Brinches
+	Pias
+	Salvador
+	Santa Maria
+	Vale de Vargo
+	Vila Nova de São Bento
+	Vila Verde de Ficalho
+	- Vidigueira - 7960
+	Pedrógão
+	Selmes
+	Vidigueira
+	Vila de Frades
+COMARCA DE ÉVORA
+	- Alandroal - 7250
+	Juromenha (Nossa Senhora do Loreto)
+	Nossa Senhora da Conceição
+	Santiago Maior
+	Santo António (Capelins)
+	São Brás dos Matos
+	São Pedro Terena
+	- Arraiolos - 7040
+	Arraiolos
+	Igrejinha
+	Sabugueiro
+	Santa Justa
+	São Gregório
+	São Pedro Gafanhoeira
+	Vimieiro
+	- Borba - 7150
+	Matriz (Borba)
+	Orada
+	Rio de Moinhos
+	São Bartolomeu
+	- Estremoz - 7100
+	Arcos
+	Évora Monte (Santa Maria)
+	Glória
+	Santa Maria
+	Santa Vitória do Ameixial
+	Santo André Estremoz
+	Santo Estevão
+	São Bento de Ana Loura
+	São Bento do Ameixial
+	São Bento do Cortiço
+	São Domingos de Ana Loura
+	São Lourenço de Mamporcão
+	Veiros
+	- Évora - 7000
+	Bacelo
+	Canaviais
+	Évora (Sé e São Pedro)
+	Horta das Figueiras
+	Malagueira
+	Nossa Senhora da Boa Fé
+	Nossa Senhora da Tourega
+	Nossa Senhora de Guadalupe
+	Nossa Senhora de Machede
+	Nossa Senhora Graça do Divor
+	Santo Antão
+	São Bento do Mato
+	São Mamede
+	São Manços
+	São Miguel de Machede
+	São Sebastião da Giesteira
+	São Vicente do Pigeiro
+	Senhora da Saúde
+	Torre de Coelheiros
+	- Montemor-o-Novo - 7050
+	Cabrela
+	Ciborro
+	Cortiçadas de Lavre
+	Foros de Vale de Figueira
+	Lavre
+	Nossa Senhora da Vila
+	Nossa Senhora do Bispo
+	Santiago do Escoural
+	São Cristóvão
+	Silveiras
+	- Mora - 7490
+	Brotas
+	Cabeção
+	Mora
+	Pavia
+	- Mourão - 7240
+	Granja
+	Luz
+	Mourão
+	- Portel - 7220
+	Alqueva
+	Amieira
+	Monte do Trigo
+	Oriola
+	Portel
+	Santana
+	São Bartolomeu do Outeiro
+	Vera Cruz
+	- Redondo - 7170
+	Montoito
+	Redondo
+	- Reguengos de Monsaraz - 7200
+	Campinho
+	Campo
+	Corval
+	Monsaraz
+	Reguengos de Monsaraz
+	- Vendas Novas - 7080
+	Landeira
+	Vendas Novas
+	- Viana do Alentejo - 7090
+	Aguiar
+	Alcáçovas
+	Viana do Alentejo
+	- Vila Viçosa - 7160
+	Bencatel
+	Ciladas
+	Conceição
+	Pardais
+	São Bartolomeu
+COMARCA DE FARO
+	- Albufeira - 8200
+	Albufeira
+	Ferreiras
+	Guia
+	Olhos de Água
+	Paderne
+	- Alcoutim - 8970
+	Alcoutim
+	Giões
+	Martim Longo
+	Pereiro
+	Vaqueiros
+	- Aljezur - 8670
+	Aljezur
+	Bordeira
+	Odeceixe
+	Rogil
+	- Castro Marim - 8950
+	Altura
+	Azinhal
+	Castro Marim
+	Odeleite
+	- Faro - 8000
+	Conceição
+	Estoi
+	Montenegro
+	Santa Bárbara de Nexe
+	São Pedro
+	Sé
+	- Lagoa - 8400
+	Carvoeiro
+	Estombar
+	Ferragudo
+	Lagoa
+	Parchal
+	Porches
+	- Lagos - 8600
+	Barão de São João
+	Bensafrim
+	Luz
+	Odiáxere
+	Santa Maria
+	São Sebastião
+	- Loulé - 8125
+	Almancil
+	Alte
+	Ameixial
+	Benafim
+	Boliqueime
+	Quarteira
+	Querença
+	Salir
+	São Clemente
+	São Sebastião
+	Tôr
+	- Monchique - 8550
+	Alferce
+	Marmelete
+	Monchique
+	- Olhão - 8700
+	Fuseta
+	Moncarapacho
+	Olhão
+	Pechão
+	Quelfes
+	- Portimão - 8500
+	Alvor
+	Mexilhoeira Grande
+	Portimão
+	- São Brás de Alportel - 8150
+	São Brás de Alportel
+	- Silves - 8300
+	Alcantarilha
+	Algoz
+	Armação de Pêra
+	Pêra
+	São Bartolomeu de Messines
+	São Marcos da Serra
+	Silves
+	Tunes
+	- Tavira - 8800
+	Cabanas de Tavira
+	Cachopo
+	Conceição
+	Luz
+	Santa Catarina Fonte Bispo
+	Santa Luzia
+	Santa Maria Tavira
+	Santiago Tavira
+	Santo Estevão
+	- Vila do Bispo - 8650
+	Barão de São Miguel
+	Budens
+	Raposeira
+	Sagres
+	Vila do Bispo
+	- Vila Real de Santo António - 8900
+	Monte Gordo
+	Vila Nova de Cacela
+	Vila Real de Santo António
+	
+COMARCA DE PORTALEGRE
+	- Alter do Chão - 7440
+	Alter do Chão
+	Chancelaria
+	Cunheira
+	Seda
+	- Arronches - 7340
+	Assunção
+	Esperança
+	Mosteiros
+	- Avis - 7480
+	Alcórrego
+	Aldeia Velha
+	Avis
+	Benavila
+	Ervedal
+	Figueira e Barros
+	Maranhão
+	Valongo
+	- Campo Maior - 7370
+	Nossa Senhora da Expectação
+	Nossa Senhora Graça Degolados
+	São João Batista
+	- Castelo de Vide - 7320
+	Nossa Senhora Graça Póvoa Meadas
+	Santa Maria da Devesa
+	Santiago Maior
+	São João Batista
+	- Crato - 7430
+	Aldeia da Mata
+	Crato e Mártires
+	Flor da Rosa
+	Gáfete
+	Monte da Pedra
+	Vale do Peso
+	- Elvas - 7350
+	Ajuda São Salvador Santo Ildefonso
+	Alcáçova
+	Assunção
+	Barbacena
+	Caia e São Pedro
+	Santa Eulália
+	São Brás e São Lourenço
+	São Vicente e Ventosa
+	Terrugem
+	Vila Boim
+	Vila Fernando
+	- Fronteira - 7460
+	Cabeço de Vide
+	Fronteira
+	São Saturnino
+	- Gavião - 6040
+	Atalaia
+	Belver
+	Comenda
+	Gavião
+	Margem
+	- Marvão - 7330
+	Beirã
+	Santa Maria de Marvão
+	Santo António das Areias
+	São Salvador da Aramenha
+	- Monforte - 7450
+	Assumar
+	Monforte
+	Santo Aleixo
+	Vaiamonte
+	- Nisa - 6050
+	Alpalhão
+	Amieira do Tejo
+	Arez
+	Espírito Santo
+	Montalvão
+	Nossa Senhora da Graça
+	Santana
+	São Matias
+	São Simão
+	Tolosa
+	- Ponte de Sor - 7400
+	Foros de Arrão
+	Galveias
+	Longomel
+	Montargil
+	Ponte de Sor
+	Tramaga
+	Vale de Açor
+	- Portalegre - 7300
+	Alagoa
+	Alegrete
+	Carreiras
+	Fortios
+	Reguengo
+	Ribeira de Nisa
+	São Julião
+	São Lourenço
+	Sé
+	Urra
+	- Sousel - 7470
+	Cano
+	Casa Branca
+	Santo Amaro
+	Sousel
+COMARCA DE SANTARÉM
+	- Abrantes - 2200
+	Aldeia do Mato
+	Alferrarede
+	Alvega
+	Bemposta
+	Carvalhal
+	Concavada
+	Fontes
+	Martinchel
+	Mouriscas
+	Pego
+	Rio de Moinhos
+	Rossio ao Sul do Tejo
+	São Facundo
+	São João
+	São Miguel do Rio Torto
+	São Vicente
+	Souto
+	Tramagal
+	Vale das Mós
+	- Alcanena - 2380
+	Alcanena
+	Bugalhos
+	Espinheiro
+	Louriceira
+	Malhou
+	Minde
+	Moitas Venda
+	Monsanto
+	Serra de Santo António
+	Vila Moreira
+	- Almeirim - 2080
+	Almeirim
+	Benfica do Ribatejo
+	Fazendas de Almeirim
+	Raposa
+	- Alpiarça - 2090
+	Alpiarça
+	- Benavente - 2130
+	Barrosa
+	Benavente
+	Samora Correia
+	Santo Estevão
+	- Cartaxo - 2070
+	Cartaxo
+	Ereira
+	Lapa
+	Pontével
+	Valada
+	Vale da Pedra
+	Vale da Pinta
+	Vila Chã de Ourique
+	- Chamusca - 2140
+	Carregueira
+	Chamusca
+	Chouto
+	Parreira
+	Pinheiro Grande
+	Ulme
+	Vale de Cavalos
+	- Constância - 2250
+	Constância
+	Montalvo
+	Santa Margarida da Coutada
+	- Coruche - 2100
+	Biscaínho
+	Branca
+	Coruche
+	Couço
+	Erra
+	Fajarda
+	Santana do Mato
+	São José da Lamarosa
+	- Entroncamento - 2330
+	Nossa Senhora de Fátima
+	São João Baptista
+	- Ferreira do Zêzere - 2240
+	Águas Belas
+	Areias
+	Beco
+	Chãos
+	Dornes
+	Ferreira do Zêzere
+	Igreja Nova do Sobral
+	Paio Mendes
+	Pias
+	- Golegã - 2150
+	Azinhaga
+	Golegã
+	- Mação - 6120
+	Aboboreira
+	Amêndoa
+	Cardigos
+	Carvoeiro
+	Envendos
+	Mação
+	Ortiga
+	Penhascoso
+	- Ourém - 2490
+	Alburitel
+	Atouguia
+	Casal dos Bernardos
+	Caxarias
+	Cercal
+	Espite
+	Fátima
+	Formigais
+	Freixianda
+	Gondemaria
+	Matas
+	Nossa Senhora da Piedade
+	Nossa Senhora Misericórdias
+	Olival
+	Ribeira do Fárrio
+	Rio de Couros
+	Seiça
+	Urqueira
+	- Rio Maior - 2040
+	Alcobertas
+	Arrouquelas
+	Arruda dos Pisões
+	Asseiceira
+	Assentiz
+	Azambujeira
+	Fráguas
+	Malaqueijo
+	Marmeleira
+	Outeiro da Cortiçada
+	Ribeira de São João
+	Rio Maior
+	São João da Ribeira
+	São Sebastião
+	- Salvaterra de Magos - 2120
+	Foros de Salvaterra
+	Glória do Ribatejo
+	Granho
+	Marinhais
+	Muge
+	Salvaterra de Magos
+	- Santarém - 2000
+	Abitureiras
+	Abrã
+	Achete
+	Alcanede
+	Alcanhões
+	Almoster
+	Amiais de Baixo
+	Arneiro das Milhariças
+	Azoia de Baixo
+	Azoia de Cima
+	Casével
+	Gançaria
+	Marvila
+	Moçarria
+	Pernes
+	Pombalinho
+	Póvoa da Isenta
+	Póvoa de Santarém
+	Romeira
+	Santa Iria Ribeira Santarém
+	São Nicolau
+	São Salvador
+	São Vicente do Paul
+	Tremês
+	Vale de Figueira
+	Vale de Santarém
+	Vaqueiros
+	Várzea
+	- Sardoal - 2230
+	
+	Alcaravela
+	Santiago de Montalegre
+	Sardoal
+	Valhascos
+	- Tomar - 2300
+	Além da Ribeira
+	Alviobeira
+	Asseiceira
+	Beselga
+	Carregueiros
+	Casais
+	Junceira
+	Madalena
+	Olalhas
+	Paialvo
+	Pedreira
+	Sabacheira
+	Santa Maria dos Olivais
+	São João Batista
+	São Pedro de Tomar
+	Serra
+	- Torres Novas - 2350
+	Alcorochel
+	Assentiz
+	Brogueira
+	Chancelaria
+	Lapas
+	Meia Via
+	Olaia
+	Paço
+	Parceiros de Igreja
+	Pedrógão
+	Riachos
+	Ribeira Branca
+	Salvador
+	Santa Maria
+	Santiago
+	São Pedro
+	Zibreira
+	- Vila Nova da Barquinha - 2260
+	
+	Atalaia
+	Moita do Norte
+	Praia do Ribatejo
+	Tancos
+	Vila Nova da Barquinha
+COMARCA DE SETÚBAL
+	- Alcácer do Sal - 7580
+	Comporta
+	Santa Maria do Castelo
+	Santa Susana
+	Santiago
+	São Martinho
+	Torrão
+	- Grândola - 7570
+	Azinheira dos Barros
+	Carvalhal
+	Grândola
+	Melides
+	Santa Margarida da Serra
+	- Palmela - 2955
+	Marateca
+	Palmela
+	Pinhal Novo
+	Poceirão
+	Quinta do Anjo
+	- Santiago do Cacém - 7540
+	Abela
+	Alvalade
+	Cercal
+	Ermidas-Sado
+	Santa Cruz
+	Santiago do Cacém
+	Santo André
+	São Bartolomeu da Serra
+	São Domingos
+	São Francisco da Serra
+	Vale de Água
+	- Sesimbra - 2970
+	Castelo (Sesimbra)
+	Quinta do Conde
+	Santiago (Sesimbra)
+	- Setúbal - 2900
+	Gâmbia-Pontes-Alto Guerra
+	Nossa Senhora da Anunciada
+	Sado
+	Santa Maria da Graça
+	São Julião
+	São Lourenço
+	São Sebastião
+	São Simão
+	- Sines - 7520
+	Porto Covo
+	Sines

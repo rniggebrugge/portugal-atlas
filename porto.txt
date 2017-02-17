@@ -1,0 +1,632 @@
+TRIBUNAL DA RELAÇÃO DE PORTO
+COMARCA DE AVEIRO
+	- Águeda - 3750
+	Agadão
+	Aguada de Baixo
+	Aguada de Cima
+	Águeda
+	Barrô
+	Belazaima do Chão
+	Borralha
+	Castanheira do Vouga
+	Espinhel
+	Fermentelos
+	Lamas do Vouga
+	Macieira de Alcoba
+	Macinhata do Vouga
+	Óis da Ribeira
+	Préstimo
+	Recardães
+	Segadães
+	Travassô
+	Trofa
+	Valongo do Vouga
+	- Albergaria-a-Velha - 3850
+	Albergaria-a-Velha
+	Alquerubim
+	Angeja
+	Branca
+	Frossos
+	Ribeira de Fráguas
+	São João de Loure
+	Valmaior
+	- Anadia - 3780
+	Aguim
+	Amoreira da Gândara
+	Ancas
+	Arcos
+	Avelãs de Caminho
+	Avelãs de Cima
+	Mogofores
+	Moita
+	Óis do Bairro
+	Paredes do Bairro
+	Sangalhos
+	São Lourenço do Bairro
+	Tamengos
+	Vila Nova de Monsarros
+	Vilarinho do Bairro
+	- Arouca - 4540
+	Albergaria da Serra
+	Alvarenga
+	Arouca
+	Burgo
+	Cabreiros
+	Canelas
+	Chave
+	Covelo de Paivó
+	Escariz
+	Espiunca
+	Fermedo
+	Janarde
+	Mansores
+	Moldes
+	Rossas
+	Santa Eulália
+	São Miguel do Mato
+	Tropeço
+	Urrô
+	Várzea
+	- Aveiro - 3800
+	Aradas
+	Cacia
+	Eirol
+	Eixo
+	Esgueira
+	Glória
+	Nariz
+	Nossa Senhora de Fátima
+	Oliveirinha
+	Requeixo
+	Santa Joana
+	São Bernardo
+	São Jacinto
+	Vera Cruz
+	- Castelo de Paiva - 4550
+	Bairros
+	Fornos
+	Paraíso
+	Pedorido
+	Raiva
+	Real
+	Santa Maria de Sardoura
+	São Martinho de Sardoura
+	Sobrado
+	- Espinho - 4500
+	Anta
+	Espinho
+	Guetim
+	Paramos
+	Silvalde
+	- Estarreja - 3860
+	Avanca
+	Beduído
+	Canelas
+	Fermelã
+	Pardilhó
+	Salreu
+	Veiros
+	- Ílhavo - 3860
+	Gafanha da Encarnação
+	Gafanha da Nazaré
+	Gafanha do Carmo
+	São Salvador
+	- Mealhada - 3050
+	Antes
+	Barcouço
+	Casal Comba
+	Luso
+	Mealhada
+	Pampilhosa
+	Vacariça
+	Ventosa do Bairro
+	- Murtosa - 3870
+	Bunheiro
+	Monte
+	Murtosa
+	Torreira
+	- Oliveira de Azeméis - 3720
+	Carregosa
+	Cesar
+	Fajões
+	Loureiro
+	Macieira de Sarnes
+	Macinhata da Seixa
+	Madail
+	Nogueira do Cravo
+	Oliveira de Azeméis
+	Ossela
+	Palmaz
+	Pindelo
+	Pinheiro da Bemposta
+	Santiago de Riba-Ul
+	São Martinho da Gândara
+	São Roque
+	Travanca
+	Ul
+	Vila de Cucujães
+	- Oliveira do Bairro - 3770
+	Bustos
+	Mamarrosa
+	Oiã
+	Oliveira do Bairro
+	Palhaça
+	Troviscal
+	- Ovar - 3880
+	Arada
+	Cortegaça
+	Esmoriz
+	Maceda
+	Ovar
+	São João
+	São Vicente de Pereira Jusã
+	Válega
+	- Santa Maria da Feira - 4520
+	Argoncilhe
+	Arrifana
+	Caldas de São Jorge
+	Canedo
+	Escapães
+	Espargo
+	Feira
+	Fiães
+	Fornos
+	Gião
+	Guisande
+	Lobão
+	Louredo
+	Lourosa
+	Milheirós de Poiares
+	Mosteiró
+	Mozelos
+	Nogueira da Regedoura
+	Paços de Brandão
+	Pigeiros
+	Rio Meão
+	Romariz
+	Sanfins
+	Sanguedo
+	Santa Maria de Lamas
+	São João de Ver
+	São Paio de Oleiros
+	Souto
+	Travanca
+	Vale
+	Vila Maior
+	- São João da Madeira - 3700
+	São João da Madeira
+	- Sever do Vouga - 3740
+	Cedrim
+	Couto de Esteves
+	Dornelas
+	Paradela
+	Pessegueiro do Vouga
+	Rocas do Vouga
+	Sever do Vouga
+	Silva Escura
+	Talhadas
+	- Vagos - 3840
+	Calvão
+	Covão do Lobo
+	Fonte de Angeão
+	Gafanha da Boa Hora
+	Ouca
+	Ponte de Vagos
+	Santa Catarina
+	Santo André de Vagos
+	Santo António de Vagos
+	Sosa
+	Vagos
+	- Vale de Cambra - 3730
+	Arões
+	Cepelos
+	Codal
+	Junqueira
+	Macieira de Cambra
+	Rôge
+	São Pedro de Castelões
+	Vila Chã
+	Vila Cova de Perrinho
+COMARCA DO PORTO
+	- Gondomar - 4420
+	Baguim do Monte
+	Covelo
+	Fânzeres
+	Foz do Sousa
+	Jovim
+	Lomba
+	Medas
+	Melres
+	Rio Tinto
+	São Cosme
+	São Pedro da Cova
+	Valbom
+	- Maia - 4475
+	Águas Santas
+	Avioso (Santa Maria)
+	Avioso (São Pedro)
+	Barca
+	Folgosa
+	Gemunde
+	Gondim
+	Gueifães
+	Maia
+	Milheirós
+	Moreira
+	Nogueira
+	Pedrouços
+	São Pedro Fins
+	Silva Escura
+	Vermoim
+	Vila Nova da Telha
+	- Matosinhos - 4450
+	Custóias
+	Guifões
+	Lavra
+	Leça da Palmeira
+	Leça do Balio
+	Matosinhos
+	Perafita
+	Santa Cruz do Bispo
+	São Mamede de Infesta
+	Senhora da Hora
+	- Porto - 4100
+	Aldoar
+	Bonfim
+	Campanhã
+	Cedofeita
+	Foz do Douro
+	Lordelo do Ouro
+	Massarelos
+	Miragaia
+	Nevogilde
+	Paranhos
+	Ramalde
+	Santo Ildefonso
+	São Nicolau
+	Sé
+	Vitória
+	- Póvoa do Varzim - 4490
+	A Ver-o-Mar
+	Aguçadoura
+	Amorim
+	Argivai
+	Balazar
+	Beiriz
+	Estela
+	Laúndos
+	Navais
+	Póvoa de Varzim
+	Rates
+	Terroso
+	- Santo Tirso - 4780
+	Agrela
+	Água Longa
+	Areias
+	Aves
+	Burgães
+	Carreira
+	Couto (Santa Cristina)
+	Couto (São Miguel)
+	Guimarei
+	Lama
+	Lamelas
+	Monte Córdova
+	Palmeira
+	Rebordões
+	Refojos de Riba de Ave
+	Reguenga
+	Roriz
+	Santo Tirso
+	São Mamede Negrelos
+	São Martinho Campo
+	São Salvador do Campo
+	São Tomé Negrelos
+	Sequeiró
+	Vilarinho
+	- Trofa - 4785
+	Alvarelhos
+	Covelas
+	Guidões
+	Muro
+	Santiago (Bougado)
+	São Mamede Coronado
+	São Martinho (Bougado)
+	São Romão Coronado
+	- Valongo - 4440
+	Alfena
+	Campo
+	Ermesinde
+	Sobrado
+	Valongo
+	- Vila do Conde - 4480
+	Arcos
+	Árvore
+	Aveleda
+	Azurara
+	Bagunte
+	Canidelo
+	Fajozes
+	Ferreiró
+	Fornelo
+	Gião
+	Guilhabreu
+	Junqueira
+	Labruge
+	Macieira da Maia
+	Malta
+	Mindelo
+	Modivas
+	Mosteiró
+	Outeiro Maior
+	Parada
+	Retorta
+	Rio Mau
+	Tougues
+	Touguinha
+	Touguinhó
+	Vairão
+	Vila Chã
+	Vila do Conde
+	Vilar
+	Vilar de Pinheiro
+	- Vila Nova de Gaia - 4430
+	Arcozelo
+	Avintes
+	Canelas
+	Canidelo
+	Crestuma
+	Grijó
+	Gulpilhares
+	Lever
+	Madalena
+	Mafamude
+	Olival
+	Oliveira do Douro
+	Pedroso
+	Perosinho
+	Sandim
+	Santa Marinha
+	São Felix da Marinha
+	São Pedro da Afurada
+	Seixezelo
+	Sermonde
+	Serzedo
+	Valadares
+	Vilar de Andorinho
+	Vilar do Paraíso
+COMARCA DO PORTO ESTE
+	- Amarante - 4600
+	Aboadela
+	Aboim
+	Ansiães
+	Ataíde
+	Bustelo
+	Canadelo
+	Candemil
+	Carneiro
+	Carvalho de Rei
+	Cepelos
+	Chapa
+	Figueiró (Santa Cristina)
+	Figueiró (Santiago)
+	Fregim
+	Freixo de Baixo
+	Freixo de Cima
+	Fridão
+	Gatão
+	Gondar
+	Jazente
+	Lomba
+	Louredo
+	Lufrei
+	Madalena
+	Mancelos
+	Oliveira
+	Olo
+	Padronelo
+	Real
+	Rebordelo
+	Salvador do Monte
+	Sanche
+	São Gonçalo
+	São Simão
+	Telões
+	Travanca
+	Várzea
+	Vila Caiz
+	Vila Chã do Marão
+	Vila Garcia
+	- Baião - 4640
+	Ancede
+	Campelo
+	Frende
+	Gestaçô
+	Gove
+	Grilo
+	Loivos da Ribeira
+	Loivos do Monte
+	Mesquinhata
+	Ovil
+	Ribadouro
+	Santa Cruz do Douro
+	Santa Leocádia (Baião)
+	Santa Marinha do Zêzere
+	São Tomé de Covelas
+	Teixeira
+	Teixeiró
+	Tresouras
+	Valadares
+	Viariz
+	- Felgueiras - 4610
+	Aião
+	Airães
+	Borba de Godim
+	Caramos
+	Friande
+	Idães
+	Jugueiros
+	Lagares
+	Lordelo
+	Macieira da Lixa
+	Margaride Santa Eulália
+	Moure
+	Pedreira
+	Penacova
+	Pinheiro
+	Pombeiro de Ribavizela
+	Rande
+	Refontoura
+	Regilde
+	Revinhade
+	Santão
+	Sendim
+	Sernande
+	Sousa
+	Torrados
+	Unhão
+	Várzea
+	Varziela
+	Vila Cova da Lixa
+	Vila Fria
+	Vila Verde
+	Vizela (São Jorge)
+	- Lousada - 4620
+	Alvarenga
+	Aveleda
+	Boim
+	Caíde de Rei
+	Casais
+	Cernadelo
+	Covas
+	Cristelos
+	Figueiras
+	Lodares
+	Lousada (Santa Margarida)
+	Lousada (São Miguel)
+	Lustosa
+	Macieira
+	Meinedo
+	Nespereira
+	Nevogilde
+	Nogueira
+	Ordem
+	Pias
+	Santo Estevão (Barrosas)
+	Silvares
+	Sousela
+	Torno
+	Vilar do Torno e Alentém
+	- Marco de Canaveses - 4630
+	Alpendurada e Matos
+	Ariz
+	Avessadas
+	Banho e Carvalhosa
+	Constance
+	Favões
+	Folhada
+	Fornos
+	Freixo
+	Magrelos
+	Manhuncelos
+	Maureles
+	Paços de Gaiolo
+	Paredes de Viadores
+	Penha Longa
+	Rio de Galinhas
+	Rosem
+	Sande
+	Santo Isidoro
+	São Lourenço do Douro
+	São Nicolau
+	Soalhães
+	Sobretâmega
+	Tabuado
+	Torrão
+	Toutosa
+	Tuias
+	Várzea do Douro
+	Várzea Ovelha e Aliviada
+	Vila Boa de Quires
+	Vila Boa do Bispo
+	- Paços de Ferreira - 4590
+	Arreigada
+	Carvalhosa
+	Codessos
+	Eiriz
+	Ferreira
+	Figueiró
+	Frazão
+	Freamunde
+	Lamoso
+	Meixomil
+	Modelos
+	Paços de Ferreira
+	Penamaior
+	Raimonda
+	Sanfins de Ferreira
+	Seroa
+	- Paredes - 4580
+	Aguiar de Sousa
+	Astromil
+	Baltar
+	Beire
+	Besteiros
+	Bitarães
+	Castelões de Cepeda
+	Cete
+	Cristelo
+	Duas Igrejas
+	Gandra
+	Gondalães
+	Lordelo
+	Louredo
+	Madalena
+	Mouriz
+	Parada de Todeia
+	Rebordosa
+	Recarei
+	Sobreira
+	Sobrosa
+	Vandoma
+	Vila Cova de Carros
+	Vilela
+	- Penafiel - 4560
+	Abragão
+	Boelhe
+	Bustelo
+	Cabeça Santa
+	Canelas
+	Capela
+	Castelões
+	Croca
+	Duas Igrejas
+	Eja
+	Figueira
+	Fonte Arcada
+	Galegos
+	Guilhufe
+	Irivo
+	Lagares
+	Luzim
+	Marecos
+	Milhundos
+	Novelas
+	Oldrões
+	Paço de Sousa
+	Paredes
+	Penafiel
+	Perozelo
+	Pinheiro
+	Portela
+	Rans
+	Rio de Moinhos
+	Rio Mau
+	Santa Marta
+	Santiago de Subarrifana
+	São Mamede Recezinhos
+	São Martinho Recezinhos
+	Sebolido
+	Urrô
+	Valpedre
+	Vila Cova

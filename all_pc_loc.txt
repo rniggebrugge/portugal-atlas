@@ -1,0 +1,4257 @@
+3050 - Antes
+3050 - Barcouço
+3050 - Casal Comba
+3050 - Luso
+3050 - Mealhada
+3050 - Pampilhosa
+3050 - Vacariça
+3050 - Ventosa do Bairro
+3870 - Bunheiro
+3870 - Monte
+3870 - Murtosa
+3870 - Torreira
+3720 - Carregosa
+3700 - Cesar
+3700 - Fajões
+3720 - Loureiro
+3700 - Macieira de Sarnes
+3720 - Macinhata da Seixa
+3720 - Madail
+3700 - Nogueira do Cravo
+3720 - Oliveira de Azeméis
+3720 - Ossela
+3720 - Palmaz
+3720 - Pindelo
+3720 - Pinheiro da Bemposta
+3720 - Santiago de Riba-Ul
+3720 - São Martinho da Gândara
+3720 - Travanca
+3720 - Ul
+3720 - São Roque
+3720 - Vila de Cucujães
+3770 - Bustos
+3770 - Mamarrosa
+3770 - Oiã
+3770 - Oliveira do Bairro
+3770 - Palhaça
+3770 - Troviscal
+3750 - Agadão
+3750 - Aguada de Baixo
+3750 - Aguada de Cima
+3750 - Águeda
+3750 - Barrô
+3750 - Belazaima do Chão
+3750 - Castanheira do Vouga
+3750 - Espinhel
+3750 - Fermentelos
+3750 - Lamas do Vouga
+3750 - Macieira de Alcoba
+3750 - Macinhata do Vouga
+3750 - Óis da Ribeira
+3750 - Préstimo
+3750 - Recardães
+3750 - Segadães
+3750 - Travassô
+3750 - Trofa
+3750 - Valongo do Vouga
+3750 - Borralha
+3850 - Albergaria-a-Velha
+3850 - Alquerubim
+3850 - Angeja
+3850 - Branca
+3850 - Frossos
+3850 - Ribeira de Fráguas
+3850 - São João de Loure
+3850 - Valmaior
+3780 - Amoreira da Gândara
+3780 - Ancas
+3780 - Arcos
+3780 - Avelãs de Caminho
+3780 - Avelãs de Cima
+3780 - Mogofores
+3780 - Moita
+3780 - Óis do Bairro
+3780 - Sangalhos
+3780 - São Lourenço do Bairro
+3780 - Tamengos
+3780 - Vila Nova de Monsarros
+3780 - Vilarinho do Bairro
+3780 - Paredes do Bairro
+3780 - Aguim
+4540 - Albergaria da Serra
+4540 - Alvarenga
+4540 - Arouca
+4540 - Burgo
+4540 - Cabreiros
+4540 - Canelas
+4540 - Chave
+4540 - Covelo de Paivó
+4540 - Escariz
+4540 - Espiunca
+4540 - Fermedo
+4540 - Janarde
+4540 - Mansores
+4540 - Moldes
+4540 - Rossas
+4540 - Santa Eulália
+4540 - São Miguel do Mato
+4540 - Tropeço
+4540 - Urrô
+4540 - Várzea
+3810 - Aradas
+3800 - Cacia
+3800 - Eirol
+3800 - Eixo
+3800 - Esgueira
+3810 - Glória
+3810 - Nariz
+3810 - Oliveirinha
+3800 - Requeixo
+3810 - São Bernardo
+3800 - São Jacinto
+3800 - Vera Cruz
+3810 - Santa Joana
+3810 - Nossa Senhora de Fátima
+4550 - Bairros
+4550 - Fornos
+4550 - Paraíso
+4550 - Pedorido
+4550 - Raiva
+4550 - Real
+4550 - Santa Maria de Sardoura
+4550 - São Martinho de Sardoura
+4550 - Sobrado
+4500 - Anta
+4500 - Espinho
+4500 - Guetim
+4500 - Paramos
+4500 - Silvalde
+3860 - Avanca
+3860 - Beduído
+3865 - Canelas
+3865 - Fermelã
+3860 - Pardilhó
+3865 - Salreu
+3860 - Veiros
+4505 - Argoncilhe
+3700 - Arrifana
+4525 - Canedo
+4520 - Escapães
+4520 - Espargo
+4520 - Feira
+4505 - Fiães
+4520 - Fornos
+4525 - Gião
+4525 - Guisande
+4505 - Lobão
+4525 - Louredo
+4535 - Lourosa
+3700 - Milheirós de Poiares
+4520 - Mosteiró
+4535 - Mozelos
+4500 - Nogueira da Regedoura
+4535 - São Paio de Oleiros
+4535 - Paços de Brandão
+4505 - Pigeiros
+4520 - Rio Meão
+3700 - Romariz
+4520 - Sanfins
+4505 - Sanguedo
+4535 - Santa Maria de Lamas
+4520 - São João de Ver
+4505 - Caldas de São Jorge
+4520 - Souto
+4520 - Travanca
+4525 - Vale
+4525 - Vila Maior (Santa Maria da Feira)
+3830 - Gafanha do Carmo
+3830 - Gafanha da Encarnação
+3830 - Gafanha da Nazaré
+3830 - Ílhavo (São Salvador)
+3885 - Arada
+3885 - Cortegaça
+3885 - Esmoriz
+3885 - Maceda
+3880 - Ovar
+3880 - São Vicente de Pereira Jusã
+3880 - Válega
+3880 - São João
+3700 - São João da Madeira
+3740 - Cedrim
+3740 - Couto de Esteves
+3740 - Paradela
+3740 - Pessegueiro do Vouga
+3740 - Rocas do Vouga
+3740 - Sever do Vouga
+3740 - Silva Escura
+3740 - Talhadas
+3740 - Dornelas
+3840 - Calvão
+3840 - Covão do Lobo
+3840 - Fonte de Angeão
+3840 - Gafanha da Boa Hora
+3840 - Ouca
+3840 - Ponte de Vagos
+3840 - Sosa
+3840 - Vagos
+3840 - Santo António de Vagos
+3840 - Santo André de Vagos
+3840 - Santa Catarina
+3730 - Arões
+3730 - São Pedro de Castelões
+3730 - Cepelos
+3730 - Codal
+3730 - Junqueira
+3730 - Macieira de Cambra
+3730 - Rôge
+3730 - Vila Chã
+3730 - Vila Cova de Perrinho
+7600 - Aljustrel
+7600 - Ervidel
+7600 - Messejana
+7600 - São João de Negrilhos
+7600 - Rio de Moinhos
+7700 - Almodôvar
+7700 - Gomes Aires
+7700 - Rosário
+7700 - Santa Clara-a-Nova
+7700 - Santa Cruz
+7700 - São Barnabé
+7700 - Senhora da Graça de Padrões
+7700 - Aldeia dos Fernandes
+7920 - Alvito
+7920 - Vila Nova da Baronia
+7230 - Barrancos
+7800 - Albernoa
+7800 - Baleizão
+7800 - Beringel
+7800 - Cabeça Gorda
+7800 - Mombeja
+7800 - Nossa Senhora das Neves
+7800 - Quintos
+7800 - Salvada
+7800 - Salvador
+7800 - Santa Clara de Louredo
+7800 - Santa Maria da Feira
+7800 - Santa Vitória
+7800 - Santiago Maior
+7800 - São Brissos
+7800 - São João Baptista
+7800 - São Matias
+7800 - Trindade
+7800 - Trigaches
+7780 - Casével
+7780 - Castro Verde
+7780 - Entradas
+7780 - Santa Bárbara de Padrões
+7780 - São Marcos da Ataboeira
+7940 - Cuba
+7940 - Faro do Alentejo
+7940 - Vila Alva
+7940 - Vila Ruiva
+7900 - Alfundão
+7900 - Ferreira do Alentejo
+7900 - Figueira dos Cavaleiros
+7900 - Odivelas
+7900 - Peroguarda
+7900 - Canhestros
+7750 - Alcaria Ruiva
+7750 - Corte do Pinto
+7750 - Espírito Santo
+7750 - Mértola
+7750 - Santana de Cambas
+7750 - São João dos Caldeireiros
+7750 - São Miguel do Pinheiro
+7750 - São Pedro de Solis
+7750 - São Sebastião dos Carros
+7885 - Amareleja
+7885 - Póvoa de São Miguel
+7875 - Safara
+7860 - Santo Agostinho
+7875 - Santo Aleixo da Restauração
+7875 - Santo Amador
+7860 - São João Baptista
+7875 - Sobral da Adiça
+7630 - Colos
+7630 - Relíquias
+7665 - Sabóia
+7665 - Santa Clara-a-Velha
+7630 - Santa Maria
+7630 - São Luís
+7630 - São Martinho das Amoreiras
+7630 - São Salvador
+7630 - São Teotónio
+7630 - Vale de Santiago
+7645 - Vila Nova de Milfontes
+7665 - Pereiras-Gare
+7630 - Bicos
+7630 - Zambujeira do Mar
+7665 - Luzianes-Gare
+7630 - Boavista dos Pinheiros
+7630 - Longueira/Almograve
+7670 - Conceição
+7670 - Garvão
+7670 - Ourique
+7670 - Panoias
+7670 - Santa Luzia
+7670 - Santana da Serra
+7830 - Vila Nova de São Bento
+7830 - Brinches
+7830 - Pias
+7830 - Salvador
+7830 - Santa Maria
+7830 - Vale de Vargo
+7830 - Vila Verde de Ficalho
+7960 - Pedrógão
+7960 - Selmes
+7960 - Vidigueira
+7960 - Vila de Frades
+4720 - Amares
+4720 - Barreiros
+4720 - Besteiros
+4720 - Bico
+4720 - Caires
+4720 - Caldelas
+4720 - Carrazedo
+4720 - Dornelas
+4720 - Ferreiros
+4720 - Figueiredo
+4720 - Fiscal
+4720 - Goães
+4720 - Lago
+4720 - Paranhos
+4720 - Paredes Secas
+4720 - Portela
+4720 - Prozelo
+4720 - Rendufe
+4720 - Bouro (Santa Maria)
+4720 - Bouro (Santa Marta)
+4720 - Sequeiros
+4720 - Seramil
+4720 - Torre
+4720 - Vilela
+4750 - Abade de Neiva
+4750 - Aborim
+4755 - Adães
+4750 - Aguiar
+4755 - Airó
+4905 - Aldreu
+4750 - Alheira
+4755 - Alvelos
+4750 - Arcozelo
+4750 - Areias
+4755 - Areias de Vilar
+4905 - Balugães
+4755 - Barcelinhos
+4750 - Barcelos
+4740 - Barqueiros
+4775 - Cambeses
+4750 - Campo
+4750 - Carapeços
+4775 - Carreira
+4755 - Carvalhal
+4755 - Carvalhos
+4775 - Chavão
+4755 - Chorente
+4750 - Cossourado
+4755 - Courel
+4750 - Couto
+4750 - Creixomil
+4755 - Cristelo
+4905 - Durrães
+4755 - Encourados
+4755 - Faria
+4750 - Feitos
+4775 - Fonte Coberta
+4755 - Fornelos
+4905 - Fragoso
+4755 - Gamil
+4755 - Gilmonde
+4755 - Goios
+4775 - Grimancelos
+4755 - Gueral
+4750 - Igreja Nova
+4750 - Lama
+4750 - Lijó
+4755 - Macieira de Rates
+4750 - Manhente
+4750 - Mariz
+4755 - Martim
+4755 - Midões
+4755 - Milhazes
+4775 - Minhotães
+4775 - Monte de Fralães
+4755 - Moure
+4775 - Negreiros
+4750 - Oliveira
+4905 - Palme
+4750 - Panque
+4755 - Paradela
+4755 - Pedra Furada (Chorente, Góios, Courel, Pedra Furada e Gueral)
+4755 - Pereira
+4750 - Perelhal
+4755 - Pousa
+4750 - Quintiães
+4755 - Remelhe
+4750 - Roriz
+4755 - Rio Covo (Santa Eugénia)
+4755 - Rio Covo (Santa Eulália)
+4750 - Tamel (Santa Leocádia)
+4750 - Galegos (Santa Maria)
+4755 - Bastuço (Santo Estevão)
+4755 - Bastuço (São João)
+4750 - Alvito (São Martinho)
+4750 - Galegos (São Martinho)
+4750 - Vila Frescainha (São Martinho)
+4750 - Alvito (São Pedro)
+4750 - Vila Frescainha (São Pedro)
+4750 - Tamel (São Pedro Fins)
+4750 - Tamel (São Veríssimo)
+4755 - Sequeade
+4750 - Silva
+4775 - Silveiros
+4905 - Tregosa
+4750 - Ucha
+4755 - Várzea
+4775 - Viatodos
+4750 - Vila Boa
+4750 - Vila Cova
+4755 - Vila Seca
+4755 - Vilar de Figos
+4750 - Vilar do Monte
+4710 - Adaúfe
+4705 - Arcos
+4705 - Arentim
+4705 - Aveleda
+4705 - Cabreiros
+4705 - Celeirós
+4700 - Cividade
+4710 - Crespos
+4705 - Cunha
+4700 - Dume
+4705 - Escudeiros
+4715 - Espinho
+4705 - Esporões
+4705 - Ferreiros
+4705 - Figueiredo
+4715 - Fraião
+4700 - Frossos
+4705 - Gondizalves
+4710 - Gualtar
+4705 - Guisande
+4715 - Lamaçães
+4705 - Lamas
+4705 - Lomar
+4700 - Maximinos
+4700 - Mire de Tibães
+4705 - Morreira
+4710 - Navarra
+4715 - Nogueira
+4715 - Nogueiró
+4700 - Padim da Graça
+4700 - Palmeira
+4700 - Panoias
+4700 - Parada de Tibães
+4715 - Pedralva
+4710 - Pousada
+4705 - Priscos
+4700 - Real
+4705 - Ruílhe
+4710 - Santa Lucrécia de Algeriz
+4705 - Penso (Santo Estêvão)
+4700 - São João do Souto
+4705 - São José de São Lázaro
+4700 - Passos (São Julião)
+4715 - São Mamede Este
+4700 - São Paio Merelim
+4715 - São Pedro (Este)
+4700 - São Pedro Merelim
+4705 - São Pedro Oliveira
+4700 - São Vicente
+4705 - São Vicente Penso
+4710 - São Victor
+4700 - Sé
+4705 - Semelhe
+4709 - Sequeira
+4715 - Sobreposta
+4705 - Tadim
+4705 - Tebosa
+4715 - Tenões
+4705 - Trandeiras
+4705 - Vilaça
+4705 - Vimieiro
+4705 - Fradelos
+4860 - Abadim
+4860 - Alvite
+4860 - Arco de Baúlhe
+4860 - Basto
+4860 - Bucos
+4860 - Cabeceiras de Basto
+4860 - Cavez
+4860 - Faia
+4860 - Gondiães
+4860 - Outeiro
+4860 - Painzela
+4860 - Passos
+4860 - Pedraça
+4860 - Refojos de Basto
+4860 - Rio Douro
+4860 - Vila Nune
+4860 - Vilar de Cunhas
+4615 - Agilde
+4890 - Arnoia
+4890 - Borba de Montanha
+4890 - Britelo
+4890 - Caçarilhe
+4890 - Canedo de Basto
+4890 - Carvalho
+4890 - Codeçoso
+4890 - Corgo
+4890 - Fervença
+4890 - Gagos
+4890 - Gémeos
+4890 - Infesta
+4890 - Molares
+4890 - Moreira do Castelo
+4890 - Ourilhe
+4820 - Rego
+4890 - Ribas
+4890 - Basto (Santa Tecla)
+4890 - Basto (São Clemente)
+4890 - Vale de Bouro
+4890 - Veade
+4740 - Antas
+4740 - Apúlia
+4740 - Belinho
+4740 - Curvos
+4740 - Esposende
+4740 - Fão
+4740 - Fonte Boa
+4740 - Forjães
+4740 - Gandra
+4740 - Gemeses
+4740 - Mar
+4740 - Marinhas
+4740 - Palmeira de Faro
+4740 - Rio Tinto
+4740 - Vila Chã
+4820 - Aboim
+4820 - Agrela
+4820 - Antime
+4820 - Ardegão
+4820 - Armil
+4820 - Arnozela
+4820 - Cepães
+4820 - Estorãos
+4820 - Fafe
+4820 - Fareja
+4820 - Felgueiras
+4820 - Fornelos
+4820 - Freitas
+4820 - Golães
+4820 - Gontim
+4820 - Medelo
+4820 - Monte
+4820 - Moreira do Rei
+4820 - Passos
+4820 - Pedraído
+4820 - Queimadela
+4820 - Quinchães
+4820 - Regadas
+4820 - Revelhe
+4820 - Ribeiros
+4820 - Arões (Santa Cristina)
+4820 - São Clemente (Silvares)
+4820 - São Gens
+4820 - São Martinho (Silvares)
+4820 - Arões (São Romão)
+4820 - Seidões
+4820 - Serafão
+4820 - Travassós
+4820 - Várzea Cova
+4820 - Vila Cova
+4820 - Vinhós
+4800 - Aldão
+4800 - Arosa
+4800 - Atães
+4800 - Azurém
+4805 - Balazar
+4805 - Barco
+4805 - Brito
+4805 - Caldelas
+4810 - Calvos
+4800 - Castelões
+4815 - Conde (Guimarães)
+4810 - Costa
+4835 - Creixomil
+4805 - Donim
+4800 - Fermentões
+4805 - Figueiredo
+4835 - Gandarela
+4810 - Gémeos
+4800 - Gominhães
+4800 - Gonça
+4835 - Gondar
+4800 - Gondomar
+4765 - Guardizela
+4810 - Infantas
+4805 - Leitões
+4805 - Longos
+4815 - Lordelo
+4835 - Mascotelos
+4810 - Mesão Frio
+4815 - Moreira de Cónegos
+4835 - Nespereira
+4805 - São Vicente de Oleiros
+4800 - Oliveira do Castelo
+4800 - Pencelo
+4810 - Pinheiro
+4835 - Polvoreira
+4805 - Ponte
+4800 - Rendufe
+4805 - Ronfe
+4805 - Salvador (Briteiros)
+4800 - Santa Eufémia Prazins
+4809 - Santa Leocádia (Briteiros)
+4805 - Santa Maria (Airão)
+4800 - Souto (Santa Maria)
+4835 - Santiago (Candoso)
+4805 - Santo Estevão (Briteiros)
+4800 - Santo Tirso (Prazins)
+4805 - São Clemente Sande
+4835 - São Cristóvão (Selho)
+4815 - São Faustino
+4805 - São João Airão
+4835 - São Jorge (Selho)
+4805 - São Lourenço Sande
+4800 - São Lourenço (Selho)
+4835 - São Martinho (Candoso)
+4805 - São Martinho Sande
+4810 - São Paio (Guimarães)
+4800 - Souto (São Salvador)
+4810 - São Sebastião (Guimarães)
+4810 - São Tomé Abação
+4800 - São Torcato
+4765 - Serzedelo
+4810 - Serzedo
+4835 - Silvares
+4835 - Tabuadelo
+4810 - Urgezes
+4805 - Vermil
+4805 - Vila Nova Sande
+4805 - Corvite
+4830 - Águas Santas
+4830 - Ajude
+4830 - Brunhais
+4830 - Calvos
+4830 - Campos
+4830 - Covelas
+4830 - Esperança
+4830 - Ferreiros
+4830 - Fonte Arcada
+4830 - Frades
+4830 - Friande
+4830 - Galegos
+4830 - Garfe
+4830 - Geraz do Minho
+4830 - Lanhoso
+4830 - Louredo
+4830 - Monsul
+4830 - Moure
+4830 - Nossa Senhora do Amparo
+4830 - Oliveira
+4830 - Rendufinho
+4830 - Santo Emilião
+4830 - São João de Rei
+4830 - Serzedelo
+4830 - Sobradelo da Goma
+4830 - Taíde
+4830 - Travassos
+4830 - Verim
+4830 - Vilela
+4840 - Balança
+4840 - Brufe
+4840 - Campo do Gerês
+4840 - Carvalheira
+4840 - Chamoim
+4840 - Chorense (Santa Marinha)
+4840 - Cibões
+4840 - Covide (São Mamede)
+4840 - Gondoriz
+4840 - Moimenta (Santo André)
+4840 - Monte (Santa Isabel)
+4840 - Ribeira
+4845 - Rio Caldo
+4840 - Souto
+4845 - Valdosende
+4840 - Vilar
+4845 - Vilar da Veiga
+4850 - Anissó
+4850 - Anjos
+4850 - Campos
+4850 - Caniçada
+4850 - Cantelães
+4850 - Cova
+4850 - Eira Vedra
+4850 - Guilhofrei
+4850 - Louredo
+4850 - Mosteiro
+4850 - Parada do Bouro
+4850 - Pinheiro
+4850 - Rossas
+4850 - Ruivães
+4850 - Salamonde
+4850 - Soengas
+4850 - Soutelo
+4850 - Tabuaças
+4850 - Ventosa
+4850 - Vieira do Minho
+4850 - Vilar Chão
+4770 - Abade de Vermoim
+4760 - Antas
+4770 - Avidos
+4765 - Bairro
+4770 - Bente
+4760 - Brufe
+4770 - Cabeçudos
+4760 - Calendário
+4765 - Carreira
+4770 - Castelões
+4760 - Cavalões
+4770 - Cruz
+4765 - Delães
+4760 - Esmeriz
+4760 - Fradelos
+4760 - Gavião
+4760 - Gondifelos
+4770 - Jesufrei
+4770 - Joane
+4770 - Lagoa
+4770 - Landim
+4775 - Lemenhe
+4760 - Louro
+4760 - Lousado
+4770 - Mogege
+4770 - MouquiTm
+4775 - Nine
+4765 - Novais
+4760 - Outiz
+4765 - Pedome
+4770 - Portela
+4770 - Pousada de Saramagos
+4770 - Requião
+4765 - Riba de Ave
+4760 - Ribeirão
+4770 - Ruivães
+4775 - Arnoso (Santa Eulália)
+4770 - Arnoso (Santa Maria)
+4765 - Santa Maria Oliveira
+4770 - São Cosme Vale
+4770 - São Martinho Vale
+4765 - São Mateus Oliveira
+4770 - São Miguel Seide
+4770 - São Paio Seide
+4770 - Sezures
+4770 - Telhado
+4770 - Vermoim
+4760 - Vila Nova de Famalicão
+4760 - Vilarinho das Cambas
+4730 - Aboim da Nóbrega
+4730 - Arcozelo
+4730 - Atães
+4730 - Atiães
+4730 - Azões
+4730 - Barbudo
+4730 - Barros
+4730 - Cabanelas
+4730 - Cervães
+4730 - Codeceda
+4730 - Coucieiro
+4730 - Covas
+4730 - Dossãos
+4730 - Duas Igrejas
+4730 - Esqueiros
+4730 - Freiriz
+4730 - Geme
+4730 - Goães (São Pedro)
+4730 - Godinhaços
+4730 - Gomide
+4730 - Gondiães
+4730 - Gondomar
+4730 - Lage
+4730 - Lanhas
+4730 - Loureira
+4730 - Marrancos
+4730 - Mós
+4730 - Moure
+4730 - Nevogilde
+4730 - Oleiros
+4730 - Parada de Gatim
+4730 - Passó
+4730 - Pedregais
+4730 - Penascais
+4730 - Pico
+4730 - Pico de Regalados
+4730 - Ponte
+4730 - Portela das Cabras
+4730 - Rio Mau
+4730 - Sabariz
+4730 - Sande
+4730 - Vila de Prado
+4730 - Oriz (Santa Marinha)
+4730 - Santiago Carreiras
+4730 - São Mamede (Escariz)
+4730 - São Martinho (Escariz)
+4730 - São Martinho Valbom
+4730 - São Miguel Carreiras
+4730 - Oriz (São Miguel)
+4730 - Prado (São Miguel)
+4730 - São Pedro Valbom
+4730 - Soutelo
+4730 - Travassós
+4730 - Turiz
+4730 - Valdreu
+4730 - Valões
+4730 - Vila Verde
+4730 - Vilarinho
+4620 - Santa Eulália
+4815 - São João (Caldas de Vizela)
+4815 - São Miguel (Caldas de Vizela)
+4815 - Infias
+4815 - Tagilde
+4815 - Vizela (Santo Adrião)
+4815 - Vizela (São Paio)
+5350 - Agrobom
+5350 - Alfândega da Fé
+5350 - Cerejais
+5350 - Eucisia
+5350 - Eucísia
+5350 - Ferradosa
+5350 - Gebelim
+5350 - Gouveia
+5350 - Parada
+5350 - Pombal
+5350 - Saldonha
+5350 - Sambade
+5350 - Sendim da Ribeira
+5350 - Sendim da Serra
+5350 - Soeima
+5350 - Vale Pereiro
+5350 - Vales
+5350 - Valverde
+5350 - Vilar Chão
+5350 - Vilarelhos
+5350 - Vilares de Vilariça
+5300 - Alfaião
+5300 - Aveleda
+5300 - Babe
+5300 - Baçal
+5300 - Calvelhe
+5300 - Carragosa
+5300 - Carrazedo
+5300 - Castrelos
+5300 - Castro de Avelãs
+5300 - Coelhoso
+5300 - Deilão
+5300 - Donai
+5300 - Espinhosela
+5300 - Failde
+5300 - França
+5300 - Gimonde
+5300 - Gondesende
+5300 - Gostei
+5300 - Grijó de Parada
+5300 - Izeda
+5300 - Macedo do Mato
+5300 - Meixedo
+5300 - Milhão
+5300 - Mós
+5300 - Nogueira
+5300 - Outeiro
+5300 - Parada
+5300 - Paradinha Nova
+5300 - Parâmio
+5300 - Pinela
+5300 - Pombares
+5300 - Quintanilha
+5300 - Quintela de Lampaças
+5300 - Rabal
+5300 - Rebordainhos
+5300 - Rebordãos
+5300 - Rio Frio
+5300 - Rio de Onor
+5300 - Salsas
+5300 - Samil
+5300 - Santa Comba de Rossas
+5300 - Santa Maria
+5300 - São Julião de Palácios
+5300 - São Pedro de Sarracenos
+5301 - Sé
+5300 - Sendas
+5300 - Serapicos
+5300 - Sortes
+5300 - Zoio
+5140 - Amedo
+5140 - Beira Grande
+5140 - Belver
+5140 - Carrazeda de Ansiães
+5140 - Castanheiro
+5140 - Fonte Longa
+5140 - Lavandeira
+5140 - Linhares
+5140 - Marzagão
+5140 - Mogo de Malta
+5140 - Parambos
+5140 - Pereiros
+5140 - Pinhal do Norte
+5140 - Pombal
+5140 - Ribalonga
+5140 - Seixo de Ansiães
+5140 - Selores
+5140 - Vilarinho da Castanheira
+5140 - Zedes
+5180 - Fornos
+5180 - Freixo de Espada à Cinta
+5180 - Lagoaça
+5180 - Ligares
+5180 - Mazouco
+5180 - Poiares
+5340 - Ala
+5340 - Amendoeira
+5340 - Arcas
+5340 - Bagueixe
+5340 - Bornes
+5340 - Burga
+5340 - Carrapatas
+5340 - Castelãos
+5340 - Chacim
+5340 - Cortiços
+5340 - Corujas
+5340 - Edroso
+5340 - Espadanedo
+5340 - Ferreira
+5340 - Grijó
+5340 - Lagoa
+5340 - Lamalonga
+5340 - Lamas
+5340 - Lombo
+5340 - Macedo de Cavaleiros
+5340 - Morais
+5340 - Murçós
+5340 - Olmos
+5340 - Peredo
+5340 - Podence
+5340 - Salselas
+5340 - Santa Combinha
+5340 - Sesulfe
+5340 - Soutelo Mourisco
+5340 - Talhas
+5340 - Talhinhas
+5340 - Vale Benfeito
+5340 - Vale da Porca
+5340 - Vale de Prados
+5340 - Vilar do Monte
+5340 - Vilarinho de Agrochão
+5340 - Vilarinho do Monte
+5340 - Vinhas
+5225 - Atenor
+5210 - Cicouro
+5210 - Constantim
+5210 - Duas Igrejas
+5210 - Genísio
+5210 - Ifanes
+5210 - Malhadas
+5210 - Miranda do Douro
+5225 - Palaçoulo
+5210 - Paradela
+5225 - Picote
+5210 - Póvoa
+5210 - São Martinho de Angueira
+5225 - Sendim
+5225 - Silva
+5210 - Vila Chã de Braciosa
+5225 - Águas Vivas
+5370 - Abambres
+5370 - Abreiro
+5385 - Aguieiras
+5370 - Alvites
+5370 - Avantos
+5370 - Avidagos
+5370 - Barcel
+5385 - Bouça
+5370 - Cabanelas
+5370 - Caravelas
+5370 - Carvalhais
+5370 - Cedães
+5370 - Cobro
+5385 - Fradizela
+5370 - Franco
+5370 - Frechas
+5370 - Freixeda
+5370 - Lamas de Orelhão
+5370 - Marmelos
+5370 - Mascarenhas
+5370 - Mirandela
+5385 - Múrias
+5370 - Navalho
+5370 - Passos
+5370 - Pereira
+5370 - Romeu
+5385 - São Pedro Velho
+5370 - São Salvador
+5370 - Suçães
+5385 - Torre de Dona Chama
+5370 - Vale de Asnes
+5385 - Vale de Gouvinhas
+5370 - Vale de Salgueiro
+5385 - Vale de Telhas
+5370 - Valverde
+5370 - Vila Boa
+5370 - Vila Verde
+5200 - Azinhoso
+5200 - Bemposta (Mogadouro)
+5200 - Bruçó
+5200 - Brunhoso
+5200 - Brunhosinho
+5200 - Castanheira
+5200 - Castelo Branco
+5350 - Castro Vicente
+5200 - Meirinhos
+5200 - Mogadouro
+5200 - Paradela
+5200 - Penas Roias
+5200 - Peredo da Bemposta
+5200 - Remondes
+5200 - Saldanha
+5200 - Sanhoane
+5200 - São Martinho do Peso
+5200 - Soutelo
+5200 - Tó
+5200 - Travanca
+5200 - Urrós
+5200 - Vale da Madre
+5200 - Vale de Porco
+5200 - Valverde
+5200 - Ventozelo
+5200 - Vila de Ala
+5200 - Vilar de Rei
+5200 - Vilarinho dos Galegos
+5160 - Açoreira
+5160 - Adeganha
+5160 - Cabeça Boa
+5160 - Cardanha
+5160 - Carviçais
+5160 - Castedo
+5160 - Felgar
+5160 - Felgueiras
+5160 - Horta da Vilariça
+5160 - Larinho
+5160 - Lousa
+5160 - Maçores
+5160 - Mós
+5160 - Peredo dos Castelhanos
+5160 - Souto da Velha
+5160 - Torre de Moncorvo
+5160 - Urros
+5360 - Assares
+5360 - Benlhevai
+5360 - Candoso
+5360 - Carvalho de Egas
+5360 - Freixiel
+5360 - Lodões
+5360 - Mourão
+5360 - Nabo
+5360 - Roios
+5360 - Samões
+5360 - Sampaio
+5360 - Santa Comba de Vilariça
+5360 - Seixo de Manhoses
+5360 - Trindade
+5360 - Vale Frechoso
+5360 - Valtorno
+5360 - Vila Flor
+5360 - Vilarinho das Azenhas
+5360 - Vilas Boas
+5230 - Algoso
+5230 - Angueira
+5230 - Argozelo
+5230 - Avelanoso
+5230 - Caçarelhos
+5230 - Campo de Víboras
+5230 - Carção
+5230 - Matela
+5230 - Pinelo
+5230 - Santulhão
+5230 - Uva
+5230 - Vale de Frades
+5230 - Vilar Seco
+5230 - Vimioso
+5335 - Agrochão
+5320 - Alvaredos
+5335 - Candedo
+5320 - Celas
+5335 - Curopos
+5320 - Edral
+5320 - Edrosa
+5335 - Ervedosa
+5320 - Fresulfe
+5320 - Mofreita
+5320 - Moimenta
+5320 - Montouto
+5320 - Nunes
+5320 - Ousilhão
+5320 - Paçó
+5320 - Penhas Juntas
+5320 - Pinheiro Novo
+5320 - Quirás
+5335 - Rebordelo
+5320 - Santa Cruz
+5320 - Santalha
+5320 - São Jomil
+5320 - Sobreiro de Baixo
+5320 - Soeira
+5320 - Travanca
+5320 - Tuizelo
+5335 - Vale das Fontes
+5335 - Vale de Janeiro
+5320 - Vila Boa de Ousilhão
+5320 - Vila Verde
+5320 - Vilar de Lomba
+5320 - Vilar de Ossos
+5320 - Vilar de Peregrinos
+5320 - Vilar Seco de Lomba
+5320 - Vinhais
+6250 - Belmonte
+6250 - Caria
+6250 - Colmeal da Torre
+6250 - Inguias
+6250 - Maçaínhas
+6005 - Alcains
+6000 - Almaceda
+6000 - Benquerenças
+6000 - Cafede
+6000 - Castelo Branco
+6000 - Cebolais de Cima
+6005 - Escalos de Baixo
+6005 - Escalos de Cima
+6000 - Freixial do Campo
+6000 - Juncal do Campo
+6005 - Lardosa
+6005 - Louriçal do Campo
+6005 - Lousa
+6000 - Malpica do Tejo
+6005 - Mata
+6000 - Monforte da Beira
+6000 - Ninho do Açor
+6000 - Póvoa de Rio de Moinhos
+6000 - Retaxo
+6000 - Salgueiro do Campo
+6000 - Santo André das Tojeiras
+6005 - São Vicente da Beira
+6000 - Sarzedas
+6000 - Sobral do Campo
+6000 - Tinalhas
+6200 - Vila do Carvalho
+6225 - Aldeia São Francisco Assis
+6200 - Aldeia do Souto
+6215 - Barco
+6200 - Boidobra
+6225 - Casegas
+6200 - Conceição
+6215 - Cortes do Meio
+6200 - Dominguizo
+6215 - Erada
+6200 - Ferro
+6200 - Orjais
+6230 - Ourondo
+6215 - Paul
+6200 - Peraboa
+6200 - Peso
+6200 - Santa Maria
+6225 - São Jorge da Beira
+6200 - São Martinho
+6200 - São Pedro
+6200 - Sarzedo
+6225 - Sobral de São Miguel
+6200 - Teixoso
+6200 - Tortosendo
+6215 - Unhais da Serra
+6200 - Vale Formoso
+6200 - Verdelhos
+6200 - Vales do Rio
+6215 - Coutada
+6200 - Cantar-Galo
+6200 - Canhoso
+6230 - Alcaide
+6230 - Alcaria
+6230 - Alcongosta
+6230 - Aldeia de Joanes
+6230 - Aldeia Nova do Cabo
+6230 - Alpedrinha
+6230 - Atalaia do Campo
+6230 - Barroca
+6185 - Bogas de Baixo
+6230 - Bogas de Cima
+6230 - Capinha
+6230 - Castelejo
+6230 - Castelo Novo
+6230 - Donas
+6230 - Escarigo
+6230 - Fatela
+6230 - Fundão
+6185 - Janeiro de Cima
+6230 - Lavacolhos
+6230 - Orca
+6230 - Pêro Viseu
+6230 - Póvoa de Atalaia
+6230 - Salgueiro
+6230 - Silvares
+6005 - Soalheira
+6230 - Souto da Casa
+6230 - Telhado
+6230 - Vale de Prazeres
+6230 - Valverde
+6230 - Mata da Rainha
+6230 - Enxames
+6060 - Alcafozes
+6060 - Aldeia de Santa Margarida
+6060 - Idanha-a-Nova
+6060 - Idanha-a-Velha
+6060 - Ladoeiro
+6060 - Medelim
+6060 - Monfortinho
+6060 - Monsanto
+6060 - Oledo
+6060 - Penha Garcia
+6060 - Proença-a-Velha
+6060 - Rosmaninhal
+6060 - Salvaterra do Extremo
+6060 - São Miguel de Acha
+6060 - Segura
+6060 - Toulões
+6060 - Zebreira
+6160 - Álvaro
+6160 - Amieira
+6185 - Cambas
+6160 - Estreito
+6160 - Isna
+6160 - Madeirã
+6160 - Mosteiro
+6160 - Oleiros
+6185 - Orvalho
+6160 - Sarnadas de São Simão
+6160 - Sobral
+6185 - Vilar Barroco
+6090 - Águas
+6090 - Aldeia do Bispo
+6090 - Aldeia de João Pires
+6090 - Aranhas
+6090 - Bemposta
+6090 - Benquerença
+6320 - Meimão
+6090 - Meimoa
+6090 - Pedrógão de São Pedro
+6090 - Penamacor
+6090 - Salvador
+6090 - Vale da Senhora da Póvoa
+6150 - Alvito da Beira
+6150 - Montes da Senhora
+6150 - Peral
+6150 - Proença-a-Nova
+6150 - São Pedro do Esteval
+6150 - Sobreira Formosa
+6100 - Cabeçudo
+6100 - Carvalhal
+6100 - Castelo
+6100 - Cernache do Bonjardim
+6100 - Cumeada
+6100 - Ermida
+6100 - Figueiredo
+6100 - Marmeleiro
+6100 - Nesperal
+6100 - Palhais
+6100 - Pedrógão Pequeno
+6100 - Sertã
+6100 - Troviscal
+6100 - Várzea dos Cavaleiros
+6110 - Fundada
+6110 - São João do Peso
+6110 - Vila de Rei
+6030 - Fratel
+6030 - Perais
+6030 - Sarnadas de Rodão
+6030 - Vila Velha de Ródão
+3305 - Anceriz
+3300 - Arganil
+3305 - Barril de Alva
+3305 - Benfeita
+3300 - Celavisa
+3300 - Cepos
+3305 - Cerdeira
+3305 - Coja
+3300 - Folques
+3305 - Moura da Serra
+6285 - Piódão
+3305 - Pomares
+3300 - Pombeiro da Beira
+3300 - São Martinho da Cortiça
+3300 - Sarzedo
+3300 - Secarias
+3300 - Teixeira
+3305 - Vila Cova de Alva
+3060 - Ançã
+3060 - Bolho
+3060 - Cadima
+3060 - Cantanhede
+3060 - Cordinhã
+3060 - Covões
+3060 - Febres
+3060 - Murtede
+3060 - Ourentã
+3060 - Outil
+3060 - Pocariça
+3060 - Portunhos
+3060 - Sepins
+3060 - Tocha
+3060 - São Caetano
+3060 - Corticeiro de Cima
+3060 - Vilamar
+3060 - Sanguinheira
+3060 - Camarneira
+3040 - Almalaguês
+3004 - Almedina
+3045 - Ameal
+3040 - Antanhol
+3025 - Antuzede
+3045 - Arzila
+3040 - Assafarge
+3020 - Botão
+3020 - Brasfemes
+3040 - Castelo Viegas
+3030 - Ceira
+3040 - Cernache
+3020 - Eiras
+3025 - Lamarosa
+3045 - Ribeira de Frades
+3040 - Santa Clara
+3000 - Santa Cruz
+3000 - Santo António dos Olivais
+3000 - São Bartolomeu
+3025 - São João do Campo
+3025 - São Martinho de Árvore
+3045 - São Martinho do Bispo
+3030 - São Paulo de Frades
+3025 - São Silvestre
+3000 - Sé Nova
+3020 - Souselas
+3045 - Taveiro
+3020 - Torre de Vilela
+3030 - Torres do Mondego
+3025 - Trouxemil
+3025 - Vil de Matos
+3150 - Anobra
+3150 - Belide
+3150 - Bem da Fé
+3150 - Condeixa-a-Nova
+3150 - Condeixa-a-Velha
+3150 - Ega
+3150 - Furadouro
+3150 - Sebal
+3150 - Vila Seca
+3150 - Zambujal
+3090 - Alhadas
+3090 - Alqueidão
+3080 - Brenha
+3080 - Buarcos
+3090 - Ferreira-a-Nova
+3090 - Lavos
+3090 - Maiorca
+3090 - Marinha das Ondas
+3090 - Paião
+3080 - Quiaios
+3080 - São Julião (Figueira da Foz)
+3080 - Tavarede
+3090 - Vila Verde
+3090 - São Pedro
+3080 - Bom Sucesso
+3090 - Santana
+3090 - Borda do Campo
+3090 - Moinhos da Gândara
+3330 - Alvares
+3330 - Cadafaz
+3330 - Colmeal
+3330 - Góis
+3330 - Vila Nova do Ceira
+3200 - Casal de Ermio
+3200 - Foz de Arouce
+3200 - Lousã
+3200 - Serpins
+3200 - Vilarinho
+3200 - Gândaras
+3070 - Mira
+3070 - Seixo
+3070 - Carapelhos
+3070 - Praia de Mira
+3220 - Lamas
+3220 - Miranda do Corvo
+3220 - Rio Vide
+3220 - Semide
+3220 - Vila Nova
+3140 - Abrunheira
+3140 - Arazede
+3140 - Carapinheira
+3140 - Gatões
+3140 - Liceia
+3140 - Meãs do Campo
+3140 - Montemor-o-Velho
+3140 - Pereira
+3140 - Santo Varão
+3140 - Seixo de Gatões
+3140 - Tentúgal
+3140 - Verride
+3140 - Vila Nova da Barca
+3140 - Ereira
+3400 - Aldeia das Dez
+3400 - Alvoco das Várzeas
+3400 - Avô
+3405 - Bobadela
+3405 - Ervedal
+3405 - Lagares da Beira
+3405 - Lagos da Beira
+3405 - Lajeosa
+3400 - Lourosa
+3405 - Meruge
+3400 - Nogueira do Cravo
+3400 - Oliveira do Hospital
+3400 - Penalva de Alva
+3400 - Santa Ovaia
+3400 - São Gião
+3400 - São Paio de Gramaços
+3400 - São Sebastião da Feira
+3405 - Seixo da Beira
+3405 - Travanca de Lagos
+3400 - Vila Pouca da Beira
+3405 - Vila Franca da Beira
+3320 - Cabril
+3320 - Dornelas do Zêzere
+3320 - Fajão
+3320 - Janeiro de Baixo
+3320 - Machio
+3320 - Pampilhosa da Serra
+3320 - Pessegueiro
+3320 - Portela do Fojo
+3320 - Unhais-o-Velho
+3320 - Vidual
+3360 - Carvalho
+3360 - Figueira de Lorvão
+3360 - Friúmes
+3360 - Lorvão
+3360 - Oliveira do Mondego
+3360 - Paradela
+3360 - Penacova
+3360 - São Paio do Mondego
+3360 - São Pedro de Alva
+3360 - Sazes do Lorvão
+3360 - Travanca do Mondego
+3230 - Cumeeira
+3230 - Espinhal
+3230 - Podentes
+3230 - Rabaçal
+3230 - Santa Eufémia
+3230 - São Miguel
+3130 - Alfarelos
+3130 - Brunhós
+3130 - Degracias
+3130 - Figueiró do Campo
+3130 - Gesteira
+3130 - Granja do Ulmeiro
+3130 - Pombalinho
+3130 - Samuel
+3130 - Soure
+3130 - Tapéus
+3130 - Vila Nova de Anços
+3130 - Vinha da Rainha
+3420 - Ázere
+3420 - Candosa
+3420 - Carapinha
+3420 - Covas
+3420 - Covelo
+3420 - Espariz
+3420 - Meda de Mouros
+3420 - Midões
+3420 - Mouronho
+3420 - Pinheiro de Coja
+3420 - Póvoa de Midões
+3420 - São João da Boa Vista
+3420 - Sinde
+3420 - Tábua
+3420 - Vila Nova de Oliveirinha
+3350 - Arrifana
+3350 - Lavegadas
+3350 - Poiares (Santo André)
+3350 - São Miguel de Poiares
+7250 - Nossa Senhora da Conceição
+7250 - Juromenha (Nossa Senhora do Loreto)
+7200 - Santiago Maior
+7250 - Santo António (Capelins)
+7250 - São Pedro Terena
+7250 - São Brás dos Matos
+7040 - Arraiolos
+7040 - Igrejinha
+7040 - Santa Justa
+7040 - São Gregório
+7040 - São Pedro Gafanhoeira
+7040 - Vimieiro
+7040 - Sabugueiro
+7150 - Matriz (Borba)
+7150 - Orada
+7150 - Rio de Moinhos
+7150 - São Bartolomeu
+7100 - Arcos
+7100 - Glória
+7100 - Santa Maria
+7100 - Évora Monte (Santa Maria)
+7100 - Santa Vitória do Ameixial
+7100 - Santo André Estremoz
+7100 - Santo Estevão
+7100 - São Bento do Ameixial
+7100 - São Bento de Ana Loura
+7100 - São Bento do Cortiço
+7100 - São Domingos de Ana Loura
+7100 - São Lourenço de Mamporcão
+7100 - Veiros
+7000 - Nossa Senhora da Boa Fé
+7000 - Nossa Senhora Graça do Divor
+7005 - Nossa Senhora de Machede
+7000 - Nossa Senhora da Tourega
+7000 - Santo Antão
+7005 - São Bento do Mato
+7004 - São Mamede
+7005 - São Manços
+7005 - São Miguel de Machede
+7200 - São Vicente do Pigeiro
+7005 - Torre de Coelheiros
+7000 - São Sebastião da Giesteira
+7005 - Canaviais
+7000 - Nossa Senhora de Guadalupe
+7005 - Bacelo
+7005 - Horta das Figueiras
+7000 - Malagueira
+7005 - Évora (Sé e São Pedro)
+7005 - Senhora da Saúde
+7050 - Cabrela
+7050 - Lavre
+7050 - Nossa Senhora do Bispo
+7050 - Nossa Senhora da Vila
+7050 - Santiago do Escoural
+7050 - São Cristóvão
+7050 - Ciborro
+7050 - Cortiçadas de Lavre
+7050 - Silveiras
+7050 - Foros de Vale Figueira
+7490 - Brotas
+7490 - Cabeção
+7490 - Mora
+7490 - Pavia
+7240 - Granja
+7240 - Luz
+7240 - Mourão
+7220 - Alqueva
+7220 - Amieira
+7220 - Monte do Trigo
+7220 - Oriola
+7220 - Portel
+7220 - Santana
+7220 - São Bartolomeu do Outeiro
+7220 - Vera Cruz
+7200 - Montoito
+7170 - Redondo
+7200 - Campo
+7200 - Corval
+7200 - Monsaraz
+7200 - Reguengos de Monsaraz
+7200 - Campinho
+7080 - Vendas Novas
+2965 - Landeira
+7090 - Alcáçovas
+7090 - Viana do Alentejo
+7090 - Aguiar
+7160 - Bencatel
+7160 - Ciladas
+7160 - Conceição
+7160 - Pardais
+7160 - São Bartolomeu
+8200 - Albufeira
+8200 - Guia
+8200 - Paderne
+8200 - Ferreiras
+8200 - Olhos de Água
+8970 - Alcoutim
+8970 - Giões
+8970 - Martim Longo
+8970 - Pereiro
+8970 - Vaqueiros
+8670 - Aljezur
+8670 - Bordeira
+8670 - Odeceixe
+8670 - Rogil
+8950 - Azinhal
+8950 - Castro Marim
+8950 - Odeleite
+8950 - Altura
+8005 - Conceição
+8005 - Estoi
+8005 - Santa Bárbara de Nexe
+8000 - São Pedro
+8000 - Sé
+8005 - Montenegro
+8400 - Estômbar
+8400 - Ferragudo
+8400 - Lagoa (freguesia)
+8400 - Porches (Lagoa)
+8400 - Carvoeiro (Lagoa)
+8400 - Parchal
+8600 - Barão de São João
+8600 - Bensafrim
+8600 - Luz
+8600 - Odiáxere
+8600 - Santa Maria
+8600 - São Sebastião
+8135 - Almancil
+8100 - Alte
+8100 - Ameixial
+8100 - Boliqueime
+8125 - Quarteira
+8100 - Querença
+8100 - Salir
+8100 - São Clemente
+8100 - São Sebastião
+8100 - Benafim
+8100 - Tôr
+8550 - Alferce
+8550 - Marmelete
+8550 - Monchique
+8700 - Fuseta
+8700 - Moncarapacho
+8700 - Olhão
+8700 - Pechão
+8700 - Quelfes
+8500 - Alvor
+8500 - Mexilhoeira Grande
+8500 - Portimão
+8150 - São Brás de Alportel
+8365 - Alcantarilha
+8365 - Algoz
+8365 - Armação de Pêra
+8365 - Pêra
+8375 - São Bartolomeu de Messines
+8375 - São Marcos da Serra
+8300 - Silves
+8365 - Tunes
+8800 - Cachopo
+8800 - Conceição
+8800 - Luz
+8800 - Santa Catarina da Fonte do Bispo
+8800 - Santa Maria de Tavira
+8800 - Santiago Tavira
+8800 - Santo Estêvão
+8800 - Santa Luzia
+8800 - Cabanas de Tavira
+8650 - Barão de São Miguel
+8650 - Budens
+8650 - Raposeira
+8650 - Sagres
+8650 - Vila do Bispo
+8900 - Vila Nova de Cacela
+8900 - Vila Real de Santo António
+8900 - Monte Gordo
+3570 - Aguiar da Beira
+3570 - Carapito
+3570 - Cortiçada
+3570 - Coruche
+3570 - Dornelas
+3570 - Eirado
+3570 - Forninhos
+3570 - Gradiz
+3570 - Pena Verde
+3570 - Pinheiro
+3570 - Sequeiros
+3570 - Souto de Aguiar da Beira
+3570 - Valverde
+6355 - Ade
+6350 - Aldeia Nova
+6350 - Almeida
+6355 - Amoreira
+6350 - Azinhal
+6355 - Cabreira
+6355 - Castelo Bom
+6355 - Castelo Mendo
+6355 - Freineda
+6355 - Freixo
+6350 - Junça
+6350 - Leomil
+6355 - Malhada Sorda
+6350 - Malpartida
+6355 - Mesquitela
+6355 - Mido
+6355 - Miuzela
+6355 - Monte Perobolço
+6355 - Nave de Haver
+6350 - Naves
+6355 - Parada
+6350 - Peva
+6355 - Porto de Ovelha
+6355 - São Pedro de Rio Seco
+6355 - Senouras
+6350 - Vale de Coelha
+6350 - Vale da Mula
+6350 - Vale Verde
+6355 - Vilar Formoso
+6360 - Açores
+6360 - Baraçal
+6360 - Cadafaz
+6360 - Carrapichana
+6360 - Cortiçô da Serra
+6360 - Forno Telheiro
+6360 - Lajeosa do Mondego
+6360 - Linhares
+6360 - Maçal do Chão
+6360 - Mesquitela
+6360 - Minhocal
+6360 - Prados
+6360 - Rapa
+6360 - Ratoeira
+6360 - Salgueirais
+6360 - Santa Maria
+6360 - São Pedro
+6360 - Vale de Azares
+6360 - Velosa
+6360 - Vide Entre Vinhas
+6360 - Vila Boa do Mondego
+6360 - Casas do Soeiro
+6440 - Algodres
+6440 - Almofala
+6440 - Castelo Rodrigo
+6440 - Cinco Vilas
+6440 - Colmeal
+6440 - Escalhão
+6440 - Escarigo
+6440 - Figueira de Castelo Rodrigo
+6440 - Freixeda do Torrão
+6440 - Mata de Lobos
+6440 - Penha de Águia
+6440 - Quintã de Pêro Martins
+6440 - Reigada
+6440 - Vale de Afonsinho
+6440 - Vermiosa
+6440 - Vilar de Amargo
+6440 - Vilar Torpim
+6370 - Algodres
+6370 - Casal Vasco
+6370 - Cortiçô
+6370 - Figueiró da Granja
+6370 - Fornos de Algodres
+6370 - Fuinhas
+6370 - Infias
+6370 - Juncais
+6370 - Maceira
+6370 - Matança
+6370 - Muxagata
+6370 - Queiriz
+6370 - Sobral Pichorro
+6370 - Vila Chã
+6370 - Vila Ruiva
+6370 - Vila Soeiro do Chão
+6290 - Aldeias
+6290 - Arcozelo
+6290 - Cativelos
+6290 - Figueiró da Serra
+6290 - Folgosinho
+6290 - Freixo da Serra
+6290 - Lagarinhos
+6290 - Mangualde da Serra
+6290 - Melo
+6290 - Moimenta da Serra
+6290 - Nabais
+6290 - Nespereira
+6290 - Paços da Serra
+6290 - Ribamondego
+6290 - Rio Torto
+6290 - São Julião
+6290 - São Paio
+6290 - São Pedro
+6290 - Vila Cortes da Serra
+6290 - Vila Franca da Serra
+6290 - Vila Nova de Tazem
+6290 - Vinhó
+6300 - Adão
+6300 - Albardo
+6300 - Aldeia do Bispo
+6300 - Aldeia Viçosa
+6300 - Alvendre
+6300 - Arrifana
+6300 - Avelãs de Ambom
+6300 - Avelãs da Ribeira
+6300 - Benespera
+6300 - Carvalhal Meão
+6300 - Casal de Cinza
+6300 - Castanheira
+6300 - Cavadoude
+6300 - Codesseiro
+6300 - Corujeira
+6300 - Faia
+6300 - Famalicão
+6300 - Fernão Joanes
+6300 - Gagos
+6300 - Gonçalo
+6300 - Gonçalo Bocas
+6300 - João Antão
+6300 - Maçainhas
+6300 - Marmeleiro
+6300 - Meios
+6300 - Mizarela
+6300 - Monte Margarida
+6300 - Panoias de Cima
+6300 - Pega
+6300 - Pêra do Moco
+6300 - Pêro Soares
+6300 - Porto da Carne
+6300 - Pousada
+6300 - Ramela
+6300 - Ribeira dos Carinhos
+6300 - Rocamondo
+6300 - Rochoso
+6300 - Santana da Azinha
+6300 - São Miguel Jarmelo
+6300 - São Pedro Jarmelo
+6300 - São Vicente
+6300 - Sé
+6300 - Seixo Amarelo
+6300 - Sobral da Serra
+6300 - Trinta
+6300 - Vale de Estrela
+6300 - Valhelhas
+6300 - Vela
+6300 - Videmonte
+6301 - Vila Cortês do Mondego
+6300 - Vila Fernando
+6300 - Vila Franca do Deão
+6300 - Vila Garcia
+6300 - Vila Soeiro
+6300 - São Miguel da Guarda
+6260 - Sameiro
+6260 - Santa Maria
+6260 - São Pedro
+6260 - Vale de Amoreira
+6430 - Aveloso
+6430 - Barreira
+6430 - Carvalhal
+6430 - Casteição
+6430 - Coriscada
+6430 - Fonte Longa
+6430 - Longroiva
+6430 - Marialva
+6430 - Meda
+6430 - Outeiro de Gatos
+6430 - Pai Penela
+6430 - Poço do Canto
+6430 - Prova
+6430 - Rabaçal
+6430 - Ranhados
+6430 - Vale Flor
+6400 - Alverca da Beira
+6400 - Atalaia
+6400 - Azevo
+6400 - Bogalhal
+6400 - Bouça Cova
+6400 - Cerejo
+6400 - Cidadelhe
+6400 - Ervas Tenras
+6400 - Ervedosa
+6400 - Freixedas
+6400 - Gouveia
+6400 - Lamegal
+6400 - Lameiras
+6400 - Manigoto
+6400 - Pala
+6400 - Pereiro
+6400 - Pinhel
+6400 - Pínzio
+6400 - Pomares
+6400 - Póvoa de El-Rei
+6400 - Safurdão
+6400 - Santa Eufémia
+6400 - Sorval
+6400 - Souro Pires
+6400 - Valbom
+6400 - Vale da Madeira
+6400 - Vascoveiro
+6320 - Águas Belas
+6320 - Aldeia do Bispo
+6320 - Aldeia da Ponte
+6320 - Aldeia da Ribeira
+6320 - Aldeia de Santo António
+6320 - Aldeia Velha
+6320 - Alfaiates
+6320 - Badamalos
+6320 - Baraçal
+6250 - Bendada
+6320 - Bismula
+6320 - Casteleiro
+6324 - Cerdeira
+6320 - Foios
+6320 - Forcalhos
+6320 - Lajeosa
+6320 - Lomba
+6320 - Malcata
+6320 - Moita
+6320 - Nave
+6320 - Pena Lobo
+6320 - Pousafoles do Bispo
+6320 - Quadrazais
+6320 - Quintas de São Bartolomeu
+6320 - Rapoula do Coa
+6320 - Rebolosa
+6320 - Rendo
+6320 - Ruivós
+6320 - Ruvina
+6320 - Sabugal
+6320 - Santo Estevão
+6320 - Seixo do Coa
+6320 - Sortelha
+6320 - Soito
+6320 - Vale das Éguas
+6320 - Vale de Espinho
+6320 - Vale Longo
+6320 - Vila Boa
+6320 - Vila do Touro
+6320 - Vilar Maior
+6270 - Alvoco da Serra
+6270 - Cabeça
+6270 - Carragozela
+6270 - Folhadosa
+6270 - Girabolhos
+6270 - Lajes
+6270 - Loriga
+6270 - Paranhos
+6270 - Pinhanços
+6270 - Sabugueiro
+6270 - Sameice
+6270 - Sandomil
+6270 - Santa Comba
+6270 - Santa Eulália
+6270 - Santa Marinha
+6270 - Santiago
+6270 - São Martinho
+6270 - São Romão
+6270 - Sazes da Beira
+6270 - Seia
+6285 - Teixeira
+6270 - Torrozelo
+6270 - Tourais
+6270 - Travancinha
+6270 - Valezim
+6270 - Várzea de Meruge
+6285 - Vide
+6270 - Vila Cova à Coelheira
+6270 - Lapa dos Dinheiros
+6420 - Aldeia Nova
+6420 - Carnicães
+6420 - Castanheira
+6420 - Cogula
+6420 - Cótimos
+6420 - Feital
+6420 - Fiães
+6420 - Freches
+6420 - Granja
+3640 - Guilheiro
+6420 - Moimentinha
+6420 - Moreira de Rei
+6420 - Palhais
+6420 - Póvoa do Concelho
+6420 - Reboleiro
+6420 - Rio de Mel
+6420 - Santa Maria
+6420 - São Pedro
+6420 - Sebadelhe da Serra
+6420 - Souto Maior
+6420 - Tamanhos
+6420 - Terrenho
+6420 - Torre do Terrenho
+6420 - Torres
+6420 - Valdujo
+6420 - Vale do Seixo
+6420 - Vila Franca das Naves
+6420 - Vila Garcia
+6420 - Vilares
+5150 - Almendra
+5150 - Castelo Melhor
+5155 - Cedovim
+5150 - Chãs
+5155 - Custóias
+5155 - Freixo de Numão
+5155 - Horta
+5155 - Mós
+5155 - Murça
+5150 - Muxagata
+5155 - Numão
+5150 - Santa Comba
+5155 - Santo Amaro
+5155 - Sebadelhe
+5155 - Seixas
+5155 - Touca
+5150 - Vila Nova de Foz Côa
+2460 - Alcobaça and Vestiaria (Alcobaça)
+2460 - Alfeizerão
+2460 - Bárrio
+2475 - Benedita
+2460 - Cela
+2460 - Coz, Alpedriz and Montes (Alcobaça)
+2460 - Évora de Alcobaça
+2460 - Maiorga
+2445 - Pataias and Martingança
+2460 - Aljubarrota
+2460 - São Martinho do Porto
+2460 - Turquel
+2460 - Vimeiro (Alcobaça)
+3250 - Almoster
+3250 - Alvaiázere
+3250 - Maçãs de Caminho
+3250 - Maçãs de Dona Maria
+3250 - Pelmá
+3250 - Pussos
+3250 - Rego da Murta
+3240 - Alvorge
+3240 - Ansião
+3240 - Avelar
+3240 - Chão de Couce
+3240 - Lagarteira
+3240 - Pousaflores
+3240 - Santiago da Guarda
+3240 - Torre de Vale de Todos
+2440 - Batalha
+2440 - Reguengo do Fetal
+2495 - São Mamede
+2440 - Golpilheira
+2540 - Bombarral
+2540 - Carvalhal
+2540 - Roliça
+2540 - Vale Covo
+2540 - Pó
+2500 - A-dos-Francos
+2500 - Alvorninha
+2500 - Nossa Senhora do Pópulo
+2500 - Carvalhal Benfeito
+2500 - Coto
+2500 - Foz do Arelho
+2500 - Landal
+2500 - Nadadouro
+2500 - Salir de Matos
+2500 - Salir do Porto
+2500 - Santa Catarina
+2500 - São Gregório
+2500 - Serra do Bouro
+2500 - Tornada
+2500 - Vidais
+2500 - Santo Onofre
+3280 - Castanheira de Pêra
+3280 - Coentral
+3260 - Aguda
+3260 - Arega
+3260 - Campelo
+3260 - Figueiró dos Vinhos
+3260 - Bairradas
+2404 - Amor
+2420 - Arrabal
+2404 - Azoia (pt)
+2400 - Barosa
+2410 - Barreira
+2420 - Boa Vista
+2420 - Caranguejeira
+2425 - Carvide
+2425 - Coimbrão
+2420 - Colmeias
+2410 - Cortes
+2410 - Leiria
+2405 - Maceira
+2415 - Marrazes
+2415 - Milagres
+2425 - Monte Real
+2425 - Monte Redondo
+2425 - Ortigosa
+2400 - Parceiros
+2410 - Pousos
+2415 - Regueira de Pontes
+2495 - Santa Catarina da Serra
+2420 - Santa Eufémia
+2425 - Souto da Carpalhosa
+2425 - Bajouca
+2415 - Bidoeira de Cima
+2420 - Memória
+2425 - Carreira
+2495 - Chainça
+2430 - Marinha Grande
+2430 - Vieira de Leiria
+2445 - Moita
+2450 - Famalicão
+2450 - Nazaré
+2450 - Valado dos Frades
+2510 - A dos Negros
+2510 - Amoreira
+2510 - Olho Marinho
+2510 - Santa Maria (Óbidos)
+2510 - São Pedro (Óbidos)
+2510 - Sobral da Lagoa
+2510 - Vau
+2510 - Gaeiras
+2510 - Usseira
+3270 - Graça
+3270 - Pedrógão Grande
+3270 - Vila Facaia
+2520 - Ajuda
+2525 - Atouguia da Baleia
+2520 - Conceição
+2520 - São Pedro
+2525 - Serra D'El Rei
+2520 - Ferrel
+3100 - Abiul
+3100 - Albergaria dos Doze
+3105 - Almagreira
+3105 - Carnide
+3105 - Carriço
+3105 - Louriçal
+3105 - Mata Mourisca
+3105 - Pelariga
+3100 - Pombal
+3105 - Redinha
+3100 - Santiago de Litém
+3100 - São Simão de Litém
+3105 - Vermoil
+3100 - Vila Cã
+3105 - Meirinhas
+3105 - Guia
+3105 - Ilha
+2480 - Alcaria
+2480 - Alqueidão da Serra
+2480 - Alvados
+2480 - Arrimal
+2480 - Calvaria de Cima
+2480 - Juncal
+2480 - Mendiga
+2485 - Mira de Aire
+2480 - Pedreiras
+2480 - São Bento
+2480 - São João Batista
+2480 - São Pedro
+2480 - Serro Ventoso
+2580 - Abrigada
+2580 - Aldeia Galega da Merceana
+2580 - Aldeia Gavinha
+2580 - Cabanas de Torres
+2580 - Cadafais
+2580 - Carnota
+2580 - Meca
+2580 - Olhalvo
+2580 - Ota
+2580 - Pereiro de Palhacana
+2580 - Santo Estevão
+2580 - Triana
+2580 - Ventosa
+2580 - Vila Verde dos Francos
+2580 - Carregado
+2580 - Ribafria
+2630 - Arranhó
+2630 - Arruda dos Vinhos
+2630 - Cardosas
+2630 - Santiago dos Velhos
+2065 - Alcoentre
+2050 - Aveiras de Baixo
+2050 - Aveiras de Cima
+2050 - Azambuja
+2065 - Manique do Intendente
+2050 - Vale do Paraíso
+2050 - Vila Nova da Rainha
+2065 - Vila Nova de São Pedro
+2065 - Maçussa
+2550 - Alguber
+2550 - Cadaval
+2550 - Cercal
+2550 - Figueiros
+2550 - Lamas
+2550 - Painho
+2550 - Peral
+2550 - Pêro Moniz
+2550 - Vermelha
+2550 - Vilar
+2755 - Alcabideche
+2775 - Carcavelos
+2750 - Cascais
+2765 - Estoril
+2775 - Parede
+2785 - São Domingos de Rana
+1300 - Ajuda
+1300 - Alcântara
+1900 - Alto do Pina
+1700 - Alvalade
+1750 - Ameixoeira
+1150 - Anjos
+1900 - Beato
+1500 - Benfica
+1700 - Campo Grande
+1070 - Campolide
+1600 - Carnide
+1100 - Castelo
+1750 - Charneca
+1250 - Coração de Jesus
+1200 - Encarnação
+1170 - Graça
+1200 - Lapa
+1750 - Lumiar
+1100 - Madalena
+1249 - Mártires
+1950 - Marvila
+1200 - Mercês
+1000 - Nossa Senhora de Fátima
+1150 - Pena
+1170 - Penha de França
+1350 - Prazeres
+1200 - Sacramento
+1200 - Santa Catarina
+1170 - Santa Engrácia
+1250 - Santa Isabel
+1150 - Santa Justa
+1400 - Santa Maria de Belém
+1800 - Santa Maria dos Olivais
+1100 - Santiago
+1350 - Santo Condestável
+1100 - Santo Estevão
+1200 - Santos-o-Velho
+1100 - São Cristóvão
+1500 - São Domingos de Benfica
+1449 - São Francisco Xavier
+1900 - São João
+1700 - São João de Brito
+1000 - São João de Deus
+1170 - São Jorge de Arroios
+1250 - São José
+1250 - São Mamede
+1100 - São Miguel
+1149 - São Nicolau
+1200 - São Paulo
+1070 - São Sebastião da Pedreira
+1100 - São Vicente de Fora
+1149 - Sé
+1100 - Socorro
+2680 - Apelação
+2670 - Bucelas
+2680 - Camarate
+2670 - Fanhões
+2660 - Frielas
+2670 - Loures
+2670 - Lousa
+1885 - Moscavide
+2685 - Sacavém
+2690 - Santa Iria de Azoia
+2660 - Santo Antão do Tojal
+2695 - São João da Talha
+2660 - São Julião do Tojal
+2680 - Unhos
+2685 - Portela
+2695 - Bobadela
+2685 - Prior Velho
+2660 - Santo António de Cavaleiros
+2530 - Lourinhã
+2530 - Miragaia
+2530 - Moita dos Ferreiros
+2530 - Moledo
+2530 - Reguengo Grande
+2530 - Santa Bárbara
+2530 - São Bartolomeu Galegos
+2530 - Vimeiro
+2530 - Marteleira
+2530 - Ribamar
+2530 - Atalaia
+2665 - Azueira
+2655 - Carvoeira
+2640 - Cheleiros
+2640 - Encarnação
+2665 - Enxara do Bispo
+2655 - Ericeira
+2665 - Gradil
+2640 - Igreja Nova
+2640 - Mafra
+2665 - Malveira
+2665 - Milharado
+2665 - Santo Estevão das Galés
+2640 - Santo Isidoro
+2640 - Sobral da Abelheira
+2665 - Vila Franca do Rosário
+2665 - Venda do Pinheiro
+2640 - São Miguel de Alcainça
+2730 - Barcarena
+2790 - Carnaxide
+2780 - Oeiras e São Julião Barra
+2770 - Paço de Arcos
+1495 - Algés
+1495 - Cruz Quebrada-Dafundo
+2795 - Linda a Velha
+2740 - Porto Salvo
+2790 - Queijas
+2760 - Caxias
+2725 - Algueirão-Mem Martins
+2715 - Almargem do Bispo
+2605 - Belas
+2705 - Colares
+2715 - Montelavar
+2745 - Queluz
+2635 - Rio de Mouro
+2710 - Santa Maria e São Miguel
+2705 - São João das Lampas
+2710 - São Martinho
+2710 - São Pedro Penaferrim
+2705 - Terrugem
+2715 - Pero Pinheiro
+2605 - Casal de Cambra
+2745 - Massamá
+2745 - Monte Abraão
+2735 - Agualva
+2735 - Cacém
+2735 - Mira-Sintra
+2735 - São Marcos
+2590 - São Quintino
+2590 - Sapataria
+2590 - Sobral de Monte Agraço
+2560 - A dos Cunhados
+2565 - Campelos
+2565 - Carmões
+2565 - Carvoeira
+2565 - Dois Portos
+2565 - Freiria
+2565 - Matacães
+2565 - Maxial
+2565 - Monte Redondo
+2560 - Ponte do Rol
+2565 - Ramalhal
+2565 - Runa
+2560 - Santa Maria e São Miguel
+2560 - São Pedro da Cadeira
+2560 - São Pedro e São Tiago
+2560 - Silveira
+2565 - Turcifal
+2565 - Ventosa
+2565 - Outeiro da Cabeça
+2560 - Maceira
+2600 - Alhandra
+2615 - Alverca do Ribatejo
+2600 - Cachoeiras
+2615 - Calhandriz
+2600 - Castanheira do Ribatejo
+2625 - Póvoa de Santa Iria
+2600 - São João dos Montes
+2625 - Vialonga
+2600 - Vila Franca de Xira
+2615 - Sobralinho
+2625 - Forte da Casa
+2614 - Alfragide
+2650 - Brandoa
+2610 - Buraca
+2720 - Damaia
+2700 - Falagueira
+2700 - Mina
+2720 - Reboleira
+2720 - Venteira
+2650 - Alfornelos
+2700 - São Brás
+2700 - Venda Nova
+1685 - Caneças
+1685 - Famões
+2675 - Odivelas
+2620 - Olival Basto
+1675 - Pontinha
+2620 - Póvoa de Santo Adrião
+2620 - Ramada
+7440 - Alter do Chão
+7440 - Chancelaria
+7440 - Seda
+7440 - Cunheira
+7340 - Assunção
+7340 - Esperança
+7340 - Mosteiros
+7480 - Alcórrego
+7480 - Aldeia Velha
+7480 - Avis
+7480 - Benavila
+7480 - Ervedal
+7480 - Figueira e Barros
+7480 - Maranhão
+7480 - Valongo
+7370 - Nossa Senhora da Expectação
+7370 - Nossa Senhora Graça Degolados
+7370 - São João Batista
+7320 - Nossa Senhora Graça Póvoa Meadas
+7320 - Santa Maria da Devesa
+7320 - Santiago Maior
+7320 - São João Batista
+7430 - Aldeia da Mata
+7430 - Crato e Mártires
+7430 - Flor da Rosa
+7430 - Gáfete
+7430 - Monte da Pedra
+7430 - Vale do Peso
+7350 - Ajuda São Salvador Santo Ildefonso
+7350 - Alcáçova
+7350 - Assunção
+7350 - Barbacena
+7350 - Caia e São Pedro
+7350 - Santa Eulália
+7350 - São Brás e São Lourenço
+7350 - São Vicente e Ventosa
+7350 - Terrugem
+7350 - Vila Boim
+7350 - Vila Fernando
+7460 - Cabeço de Vide
+7460 - Fronteira
+7460 - São Saturnino
+6040 - Atalaia
+6040 - Belver
+6040 - Comenda
+6040 - Gavião
+6040 - Margem
+7330 - Beirã
+7330 - Santa Maria de Marvão
+7330 - Santo António das Areias
+7330 - São Salvador da Aramenha
+7450 - Assumar
+7450 - Monforte
+7450 - Santo Aleixo
+7450 - Vaiamonte
+6050 - Alpalhão
+6050 - Amieira do Tejo
+6050 - Arez
+6050 - Espírito Santo
+6050 - Montalvão
+6050 - Nossa Senhora da Graça
+6050 - Santana
+6050 - São Matias
+6050 - São Simão
+6050 - Tolosa
+7400 - Galveias
+7425 - Montargil
+7400 - Ponte de Sor
+7425 - Foros de Arrão
+7400 - Longomel
+7400 - Vale de Açor
+7400 - Tramaga
+7300 - Alagoa
+7300 - Alegrete
+7300 - Carreiras
+7300 - Fortios
+7300 - Reguengo
+7300 - Ribeira de Nisa
+7300 - São Julião
+7300 - São Lourenço
+7300 - Sé
+7300 - Urra
+7470 - Cano
+7470 - Casa Branca
+7470 - Santo Amaro
+7470 - Sousel
+4600 - Aboadela
+4600 - Aboim
+4600 - Ansiães
+4605 - Ataíde
+4600 - Bustelo
+4600 - Canadelo
+4600 - Candemil
+4600 - Carneiro
+4600 - Carvalho de Rei
+4600 - Cepelos
+4600 - Chapa
+4600 - Fregim
+4600 - Freixo de Baixo
+4615 - Freixo de Cima
+4600 - Fridão
+4600 - Gatão
+4600 - Gondar
+4600 - Jazente
+4600 - Lomba
+4600 - Louredo
+4600 - Lufrei
+4600 - Madalena
+4605 - Mancelos
+4605 - Oliveira
+4600 - Olo
+4600 - Padronelo
+4605 - Real
+4600 - Rebordelo
+4600 - Salvador do Monte
+4600 - Sanche
+4615 - Figueiró (Santa Cristina)
+4615 - Figueiró (Santiago)
+4600 - São Gonçalo
+4600 - São Simão de Gouveia
+4615 - Telões
+4605 - Travanca
+4600 - Várzea
+4600 - Vila Caiz
+4600 - Vila Chã do Marão
+4600 - Vila Garcia
+4640 - Ancede
+4640 - Campelo
+4640 - São Tomé de Covelas
+4640 - Frende
+4640 - Gestaçô
+4640 - Gove
+4640 - Grilo
+4640 - Loivos do Monte
+4640 - Loivos da Ribeira
+4640 - Mesquinhata
+4640 - Ovil
+4640 - Ribadouro
+4640 - Santa Cruz do Douro
+4640 - Santa Leocádia (Baião)
+4640 - Santa Marinha do Zêzere
+5040 - Teixeira
+5040 - Teixeiró
+4640 - Tresouras
+4640 - Valadares
+4640 - Viariz
+4650 - Aião
+4650 - Airães
+4615 - Borba de Godim
+4610 - Caramos
+4610 - Friande
+4650 - Idães
+4610 - Jugueiros
+4610 - Lagares
+4650 - Lordelo
+4615 - Macieira da Lixa
+4610 - Moure
+4650 - Pedreira
+4610 - Penacova
+4610 - Pinheiro
+4610 - Pombeiro de Ribavizela
+4650 - Rande
+4610 - Refontoura
+4815 - Regilde
+4650 - Revinhade
+4610 - Margaride Santa Eulália
+4650 - Santão
+4610 - Vizela (São Jorge)
+4610 - Sendim
+4650 - Sernande
+4650 - Sousa
+4650 - Torrados
+4650 - Unhão
+4610 - Várzea
+4650 - Varziela
+4615 - Vila Cova da Lixa
+4610 - Vila Fria
+4650 - Vila Verde
+4515 - Covelo
+4510 - Fânzeres
+4515 - Foz do Sousa
+4510 - Jovim
+4515 - Lomba
+4515 - Medas
+4515 - Melres
+4435 - Rio Tinto
+4420 - São Cosme
+4510 - São Pedro da Cova
+4420 - Valbom
+4435 - Baguim do Monte
+4620 - Alvarenga
+4620 - Aveleda
+4620 - Boim
+4620 - Caíde de Rei
+4620 - Casais
+4620 - Cernadelo
+4620 - Covas
+4620 - Cristelos
+4620 - Figueiras
+4620 - Lodares
+4620 - Lustosa
+4620 - Macieira
+4620 - Meinedo
+4620 - Nespereira
+4620 - Nevogilde
+4620 - Nogueira
+4620 - Ordem
+4620 - Pias
+4620 - Lousada (Santa Margarida)
+4620 - Santo Estevão (Barrosas)
+4620 - Lousada (São Miguel)
+4620 - Silvares
+4620 - Sousela
+4620 - Torno
+4620 - Vilar do Torno e Alentém
+4425 - Águas Santas
+4475 - Barca
+4425 - Folgosa
+4475 - Gemunde
+4475 - Gondim
+4470 - Gueifães
+4470 - Maia
+4475 - Milheirós
+4470 - Moreira
+4475 - Nogueira
+4475 - Avioso (Santa Maria)
+4475 - Avioso (São Pedro)
+4425 - São Pedro Fins
+4475 - Silva Escura
+4470 - Vermoim
+4470 - Vila Nova da Telha
+4425 - Pedrouços
+4575 - Alpendurada e Matos
+4625 - Ariz
+4630 - Avessadas
+4635 - Banho e Carvalhosa
+4635 - Constance
+4625 - Favões
+4635 - Folhada
+4630 - Fornos
+4630 - Freixo
+4625 - Magrelos
+4630 - Manhuncelos
+4630 - Maureles
+4625 - Paços de Gaiolo
+4630 - Paredes de Viadores
+4625 - Penha Longa
+4630 - Rio de Galinhas
+4625 - Rosem
+4625 - Sande
+4635 - Santo Isidoro
+4625 - São Lourenço do Douro
+4630 - São Nicolau
+4630 - Soalhães
+4635 - Sobretâmega
+4635 - Tabuado
+4575 - Torrão
+4635 - Toutosa
+4630 - Tuias
+4575 - Várzea do Douro
+4635 - Várzea Ovelha e Aliviada
+4625 - Vila Boa do Bispo
+4635 - Vila Boa de Quires
+4460 - Custóias
+4460 - Guifões
+4455 - Lavra
+4465 - Leça do Balio
+4450 - Leça da Palmeira
+4450 - Matosinhos
+4455 - Perafita
+4455 - Santa Cruz do Bispo
+4465 - São Mamede de Infesta
+4460 - Senhora da Hora
+4595 - Arreigada
+4590 - Carvalhosa
+4590 - Codessos
+4595 - Eiriz
+4590 - Ferreira
+4590 - Figueiró
+4595 - Frazão
+4590 - Freamunde
+4590 - Lamoso
+4595 - Meixomil
+4590 - Modelos
+4590 - Paços de Ferreira
+4595 - Penamaior
+4590 - Raimonda
+4595 - Sanfins de Ferreira
+4595 - Seroa
+4585 - Aguiar de Sousa
+4585 - Astromil
+4585 - Baltar
+4580 - Beire
+4580 - Besteiros
+4580 - Bitarães
+4580 - Castelões de Cepeda
+4580 - Cete
+4580 - Cristelo
+4580 - Duas Igrejas
+4585 - Gandra
+4580 - Gondalães
+4580 - Lordelo
+4580 - Louredo
+4580 - Madalena
+4580 - Mouriz
+4585 - Parada de Todeia
+4585 - Rebordosa
+4585 - Recarei
+4585 - Sobreira
+4580 - Sobrosa
+4585 - Vandoma
+4580 - Vila Cova de Carros
+4580 - Vilela
+4560 - Abragão
+4575 - Boelhe
+4560 - Bustelo
+4575 - Cabeça Santa
+4575 - Canelas
+4575 - Capela (Penafiel)
+4560 - Castelões
+4560 - Croca
+4560 - Duas Igrejas
+4575 - Eja
+4575 - Figueira
+4560 - Fonte Arcada
+4560 - Galegos
+4560 - Guilhufe
+4560 - Irivo
+4560 - Lagares
+4560 - Luzim
+4560 - Marecos
+4560 - Milhundos
+4560 - Novelas (pt)
+4575 - Oldrões
+4560 - Paço de Sousa
+4575 - Paredes
+4560 - Penafiel
+4560 - Perozelo
+4575 - Pinheiro
+4575 - Portela
+4560 - Rans
+4575 - Rio de Moinhos
+4560 - Santa Marta
+4560 - Santiago de Subarrifana
+4560 - São Mamede Recezinhos
+4560 - São Martinho Recezinhos
+4575 - Sebolido
+4560 - Urrô
+4575 - Valpedre
+4560 - Vila Cova
+4575 - Rio Mau
+4100 - Aldoar
+4200 - Bonfim
+4350 - Campanhã
+4250 - Cedofeita
+4150 - Foz do Douro
+4150 - Lordelo do Ouro
+4150 - Massarelos
+4050 - Miragaia
+4150 - Nevogilde
+4200 - Paranhos
+4100 - Ramalde
+4000 - Santo Ildefonso
+4050 - São Nicolau
+4000 - Sé
+4050 - Vitória
+4490 - A Ver-o-Mar
+4495 - Aguçadoura
+4495 - Amorim
+4490 - Argivai
+4570 - Balazar
+4495 - Beiriz
+4570 - Estela
+4570 - Laúndos
+4495 - Navais
+4490 - Póvoa de Varzim
+4570 - Rates
+4495 - Terroso
+4825 - Agrela
+4825 - Água Longa
+4780 - Areias
+4795 - Aves
+4780 - Burgães
+4825 - Carreira
+4825 - Guimarei
+4780 - Lama
+4825 - Lamelas
+4825 - Monte Córdova
+4780 - Palmeira
+4795 - Rebordões
+4825 - Refojos de Riba de Ave
+4825 - Reguenga
+4795 - Roriz
+4780 - Couto (Santa Cristina)
+4780 - Santo Tirso
+4795 - São Mamede Negrelos
+4795 - São Martinho Campo
+4780 - Couto (São Miguel)
+4795 - São Salvador do Campo
+4795 - São Tomé Negrelos
+4780 - Sequeiró
+4795 - Vilarinho
+4445 - Alfena
+4440 - Campo
+4445 - Ermesinde
+4440 - Sobrado
+4440 - Valongo
+4480 - Arcos
+4483 - Árvore
+4485 - Aveleda
+4480 - Azurara
+4480 - Bagunte
+4485 - Canidelo
+4485 - Fajozes
+4480 - Ferreiró
+4485 - Fornelo
+4485 - Gião
+4485 - Guilhabreu
+4480 - Junqueira
+4485 - Labruge
+4485 - Macieira da Maia
+4485 - Malta
+4485 - Mindelo
+4485 - Modivas
+4485 - Mosteiró
+4480 - Outeiro Maior
+4480 - Parada
+4480 - Retorta
+4480 - Rio Mau
+4480 - Tougues
+4480 - Touguinha
+4480 - Touguinhó
+4485 - Vairão
+4485 - Vila Chã
+4480 - Vila do Conde
+4485 - Vilar
+4485 - Vilar de Pinheiro
+4410 - Arcozelo
+4430 - Avintes
+4410 - Canelas
+4400 - Canidelo
+4415 - Crestuma
+4415 - Grijó
+4405 - Gulpilhares
+4415 - Lever
+4405 - Madalena
+4400 - Mafamude
+4415 - Olival
+4430 - Oliveira do Douro
+4415 - Pedroso
+4415 - Perosinho
+4415 - Sandim
+4400 - Santa Marinha
+4410 - São Félix da Marinha
+4400 - São Pedro da Afurada
+4415 - Seixezelo
+4415 - Sermonde
+4410 - Serzedo
+4405 - Valadares
+4430 - Vilar de Andorinho
+4405 - Vilar do Paraíso
+4745 - Alvarelhos
+4785 - Santiago (Bougado)
+4785 - São Martinho (Bougado)
+4745 - São Mamede Coronado
+4745 - São Romão Coronado
+4785 - Covelas
+4745 - Guidões
+4745 - Muro
+2200 - Aldeia do Mato
+2200 - Alferrarede
+2205 - Alvega
+2205 - Bemposta
+2200 - Martinchel
+2200 - Mouriscas
+2205 - Pego
+2200 - Rio de Moinhos
+2205 - Rossio ao Sul do Tejo
+2205 - São Facundo
+2200 - São João
+2205 - São Miguel do Rio Torto
+2200 - São Vicente
+2230 - Souto
+2205 - Tramagal
+2205 - Vale das Mós
+2205 - Concavada
+2230 - Fontes
+2230 - Carvalhal
+2380 - Alcanena
+2384 - Bugalhos
+2380 - Espinheiro
+2380 - Louriceira
+2380 - Malhou
+2395 - Minde
+2380 - Moitas Venda
+2380 - Monsanto
+2380 - Serra de Santo António
+2380 - Vila Moreira
+2080 - Almeirim
+2080 - Benfica do Ribatejo
+2080 - Fazendas de Almeirim
+2080 - Raposa
+2090 - Alpiarça
+2120 - Benavente
+2135 - Samora Correia
+2130 - Santo Estevão
+2130 - Barrosa
+2070 - Cartaxo
+2070 - Ereira
+2070 - Lapa
+2070 - Pontével
+2070 - Valada
+2070 - Vale da Pinta
+2070 - Vila Chã de Ourique
+2070 - Vale da Pedra
+2140 - Chamusca
+2140 - Chouto
+2140 - Pinheiro Grande
+2140 - Ulme
+2140 - Vale de Cavalos
+2140 - Parreira
+2140 - Carregueira
+2250 - Constância
+2250 - Montalvo
+2250 - Santa Margarida da Coutada
+2100 - Coruche
+2100 - Couço
+2100 - São José da Lamarosa
+2100 - Fajarda
+2100 - Branca
+2100 - Erra
+2100 - Biscaínho
+2100 - Santana do Mato
+2330 - São João Baptista
+2330 - Nossa Senhora de Fátima
+2240 - Águas Belas
+2240 - Areias
+2240 - Beco
+2240 - Chãos
+2240 - Dornes
+2240 - Ferreira do Zêzere
+2240 - Igreja Nova do Sobral
+2240 - Paio Mendes
+2240 - Pias
+2150 - Azinhaga
+2150 - Golegã
+6120 - Aboboreira
+6120 - Amêndoa
+6120 - Cardigos
+6120 - Carvoeiro
+6120 - Envendos
+6120 - Mação
+6120 - Ortiga
+6120 - Penhascoso
+2040 - Alcobertas
+2040 - Arrouquelas
+2040 - Arruda dos Pisões
+2040 - Azambujeira
+2040 - Fráguas
+2040 - Marmeleira
+2040 - Outeiro da Cortiçada
+2040 - Rio Maior
+2040 - São João da Ribeira
+2040 - Asseiceira
+2040 - São Sebastião
+2040 - Ribeira de São João
+2040 - Malaqueijo
+2040 - Assentiz
+2125 - Glória do Ribatejo
+2125 - Marinhais
+2125 - Muge
+2120 - Salvaterra de Magos
+2120 - Foros de Salvaterra
+2125 - Granho
+2005 - Abitureiras
+2025 - Abrã
+2000 - Achete
+2025 - Alcanede
+2000 - Alcanhões
+2005 - Almoster
+2025 - Amiais de Baixo
+2000 - Arneiro das Milhariças
+2005 - Azoia de Baixo
+2025 - Azoia de Cima
+2000 - Casével
+2000 - Marvila
+2005 - Moçarria
+2000 - Pernes
+2150 - Pombalinho
+2005 - Póvoa da Isenta
+2000 - Póvoa de Santarém
+2005 - Romeira
+2000 - Santa Iria Ribeira Santarém
+2005 - São Nicolau
+2005 - São Salvador
+2000 - São Vicente do Paul
+2025 - Tremês
+2000 - Vale de Figueira
+2005 - Vale de Santarém
+2000 - Vaqueiros
+2005 - Várzea
+2025 - Gançaria
+2230 - Alcaravela
+2230 - Santiago de Montalegre
+2230 - Sardoal
+2230 - Valhascos
+2305 - Alviobeira
+2305 - Asseiceira
+2305 - Beselga
+2305 - Carregueiros
+2305 - Casais
+2300 - Junceira
+2305 - Madalena
+2300 - Olalhas
+2305 - Paialvo
+2305 - Pedreira
+2300 - Santa Maria dos Olivais
+2300 - São João Baptista (Tomar)\São João Batista
+2300 - São Pedro de Tomar
+2305 - Sabacheira
+2300 - Serra
+2305 - Além da Ribeira
+2350 - Alcorochel
+2350 - Assentiz
+2350 - Brogueira
+2350 - Chancelaria
+2350 - Lapas
+2350 - Olaia
+2350 - Paço
+2350 - Parceiros de Igreja
+2350 - Pedrógão
+2350 - Riachos
+2350 - Ribeira Branca
+2350 - Salvador
+2350 - Santa Maria
+2350 - Santiago
+2350 - São Pedro
+2350 - Zibreira
+2350 - Meia Via
+2260 - Atalaia
+2260 - Praia do Ribatejo
+2260 - Tancos
+2260 - Vila Nova da Barquinha
+2260 - Moita do Norte
+2490 - Alburitel
+2490 - Atouguia
+2435 - Casal dos Bernardos
+2435 - Caxarias
+2435 - Espite
+2495 - Fátima
+2435 - Formigais
+2435 - Freixianda
+2490 - Gondemaria
+2435 - Olival
+2490 - Nossa Senhora Misericórdias
+2435 - Rio de Couros
+2435 - Seiça
+2435 - Urqueira
+2490 - Nossa Senhora da Piedade
+2435 - Matas
+2490 - Cercal
+2435 - Ribeira do Fárrio
+7580 - Santa Maria do Castelo
+7580 - Santa Susana
+7580 - Santiago
+7595 - Torrão
+7580 - São Martinho
+7580 - Comporta
+2890 - Alcochete
+2890 - Samouco
+2890 - São Francisco
+2800 - Almada
+2825 - Caparica
+2825 - Costa da Caparica
+2805 - Cova da Piedade
+2825 - Trafaria
+2800 - Cacilhas
+2805 - Pragal
+2815 - Sobreda
+2820 - Charneca da Caparica
+2810 - Laranjeiro
+2810 - Feijó
+2830 - Barreiro
+2835 - Lavradio
+2830 - Palhais
+2830 - Santo André
+2830 - Verderena
+2830 - Alto do Seixalinho
+2835 - Santo António da Charneca
+2830 - Coina
+7570 - Azinheira dos Barros
+7570 - Grândola
+7570 - Melides
+7570 - Santa Margarida da Serra
+7570 - Carvalhal
+2860 - Alhos Vedros
+2835 - Baixa da Banheira
+2860 - Moita
+2860 - Gaio-Rosário
+2860 - Sarilhos Pequenos
+2835 - Vale da Amoreira
+2985 - Canha
+2870 - Montijo
+2985 - Santo Isidro de Pegões
+2870 - Sarilhos Grandes
+2870 - Alto Estanqueiro-Jardia
+2985 - Pegões
+2870 - Atalaia
+2870 - Afonsoeiro
+2965 - Marateca
+2950 - Palmela
+2955 - Pinhal Novo
+2950 - Quinta do Anjo
+2965 - Poceirão
+7540 - Abela
+7565 - Alvalade
+7555 - Cercal
+7565 - Ermidas-Sado
+7540 - Santa Cruz
+7540 - Santiago do Cacém
+7500 - Santo André
+7540 - São Bartolomeu da Serra
+7540 - São Domingos
+7540 - São Francisco da Serra
+7540 - Vale de Água
+2840 - Aldeia de Paio Pires
+2845 - Amora
+2840 - Arrentela
+2840 - Seixal
+2855 - Corroios
+2865 - Fernão Ferro
+2970 - Castelo (Sesimbra)
+2970 - Santiago (Sesimbra)
+2975 - Quinta do Conde
+2900 - Nossa Senhora da Anunciada
+2900 - Santa Maria da Graça
+2900 - São Julião
+2925 - São Lourenço
+2910 - São Sebastião
+2925 - São Simão
+2910 - Gâmbia-Pontes-Alto Guerra
+2910 - Sado
+7520 - Sines
+7520 - Porto Covo
+4970 - Aboim das Choças
+4970 - Aguiã
+4970 - Alvora
+4970 - Ázere
+4970 - Cabana Maior
+4970 - Cabreiro
+4970 - Carralcova
+4970 - Cendufe
+4970 - Couto
+4970 - Eiras
+4970 - Ermelo
+4970 - Extremo
+4970 - Gavieira
+4970 - Giela
+4970 - Gondoriz
+4970 - Grade
+4970 - Guilhadeses
+4970 - Loureda
+4970 - Madalena (Jolda)
+4970 - Mei
+4970 - Miranda
+4970 - Monte Redondo
+4970 - Oliveira
+4970 - Paçô
+4970 - Padroso
+4970 - Parada
+4970 - Portela
+4970 - Prozelo
+4970 - Rio Cabrão
+4970 - Rio Frio
+4970 - Rio de Moinhos
+4970 - Sá
+4970 - Sabadim
+4970 - Salvador
+4970 - Padreiro (Salvador)
+4970 - Padreiro (Santa Cristina)
+4970 - Távora (Santa Maria)
+4970 - Santar
+4970 - São Cosme e São Damião
+4970 - São Jorge
+4970 - São Paio Arcos Valdevez
+4970 - São Paio Jolda
+4970 - São Vicente Távora
+4970 - Senharei
+4970 - Sistelo
+4970 - Soajo
+4970 - Souto
+4970 - Tabaçô
+4970 - Vale
+4970 - Vila Fonche
+4970 - Vilela
+4910 - Âncora
+4910 - Arga de Baixo
+4910 - Arga de Cima
+4910 - Arga de São João
+4910 - Argela
+4910 - Azevedo
+4910 - Caminha
+4910 - Cristelo
+4910 - Dem
+4910 - Gondar
+4910 - Lanhelas
+4910 - Moledo
+4910 - Orbacém
+4910 - Riba de Âncora
+4910 - Seixas
+4910 - Venade
+4910 - Vila Praia de Âncora
+4910 - Vilar de Mouros
+4910 - Vilarelho
+4910 - Vile
+4960 - Alvaredo
+4960 - Castro Laboreiro
+4960 - Chaviães
+4960 - Cousso
+4960 - Cristoval
+4960 - Cubalhão
+4960 - Fiães
+4960 - Gave
+4960 - Lamas de Mouro
+4960 - Paços
+4960 - Paderne
+4960 - Parada do Monte
+4960 - Penso
+4960 - Prado
+4960 - Remoães
+4960 - Roussas
+4960 - São Paio
+4960 - Vila
+4950 - Abedim
+4950 - Anhões
+4950 - Badim
+4950 - Barbeita
+4950 - Barroças e Taias
+4950 - Bela
+4950 - Cambeses
+4950 - Ceivães
+4950 - Lapela
+4950 - Lara
+4950 - Longos Vales
+4950 - Lordelo
+4950 - Luzio
+4950 - Mazedo
+4950 - Merufe
+4950 - Messegães
+4950 - Monção
+4950 - Moreira
+4950 - Parada
+4950 - Pias
+4950 - Pinheiros
+4950 - Podame
+4950 - Portela
+4950 - Riba de Mouro
+4950 - Sá
+4950 - Sago
+4950 - Segude
+4950 - Tangil
+4950 - Troporiz
+4950 - Troviscoso
+4950 - Trute
+4950 - Valadares
+4950 - Cortes
+4940 - Agualonga
+4940 - Bico
+4940 - Castanheira
+4940 - Cossourado
+4940 - Coura
+4940 - Cristelo
+4940 - Cunha
+4940 - Ferreira
+4940 - Formariz
+4940 - Infesta
+4940 - Insalde
+4940 - Linhares
+4940 - Mozelos
+4940 - Padornelo
+4940 - Parada
+4940 - Paredes de Coura
+4940 - Porreiras
+4940 - Resende
+4940 - Romarigães
+4940 - Rubiães
+4940 - Vascões
+4980 - Azias (Santa Maria)
+4980 - Boivães
+4980 - Bravães
+4980 - Britelo (São Martinho)
+4980 - Crasto (São Martinho)
+4980 - Cuide de Vila Verde
+4980 - Entre Ambos-os-Rios
+4980 - Ermida
+4980 - Germil
+4980 - Grovelas São João Evangelista
+4980 - Lavradas
+4980 - Lindoso
+4980 - Nogueira
+4980 - Oleiros
+4980 - Paço Vedro de Magalhães
+4980 - Ponte da Barca
+4980 - Ruivos
+4980 - Touvedo (Salvador)
+4980 - Sampriz
+4980 - Vila Chã (Santiago)
+4980 - Vila Chã (São João Batista)
+4980 - Touvedo (São Lourenço)
+4980 - Vade (São Pedro)
+4980 - Vade (São Tomé)
+4980 - Vila Nova de Muia
+4990 - Anais
+4990 - Arca
+4990 - Arcos
+4990 - Arcozelo
+4990 - Ardegão
+4990 - Bárrio
+4990 - Beiral do Lima
+4990 - Bertiandos
+4990 - Boalhosa
+4990 - Brandara
+4990 - Cabaços
+4990 - Cabração
+4990 - Calheiros
+4990 - Calvelo
+4990 - Cepões
+4990 - Correlhã
+4990 - Estorãos
+4990 - Facha
+4990 - Feitosa
+4990 - Fojo Lobal
+4990 - Fontão
+4990 - Fornelos
+4990 - Freixo
+4990 - Friastelas
+4990 - Gaifar
+4990 - Gandra
+4990 - Gemieira
+4990 - Gondufe
+4990 - Labruja
+4990 - Labrujó
+4990 - Mato
+4990 - Moreira do Lima
+4990 - Navió
+4990 - Poiares
+4990 - Ponte de Lima
+4990 - Queijada
+4990 - Refóios do Lima
+4990 - Rendufe
+4990 - Ribeira
+4990 - Sá
+4990 - Sandiães
+4990 - Santa Comba
+4990 - Santa Cruz de Lima
+4990 - Santa Maria Rebordões
+4990 - Seara
+4990 - Serdedelo
+4990 - Souto Rebordões
+4990 - Vilar das Almas
+4990 - Vilar do Monte
+4990 - Vitorino das Donas
+4990 - Vitorino dos Piães
+4930 - Arão
+4930 - Boivão
+4930 - Cerdal
+4930 - Cristelo Covo
+4930 - Fontoura
+4930 - Friestas
+4930 - Gandra
+4930 - Ganfei
+4930 - Gondomil
+4930 - Sanfins
+4930 - São Julião
+4930 - São Pedro da Torre
+4930 - Silva
+4930 - Taião
+4930 - Valença
+4930 - Verdoejo
+4900 - Afife
+4905 - Alvarães
+4925 - Amonde
+4935 - Vila Nova de Anha
+4900 - Areosa
+4905 - Barroselas
+4925 - Cardielos
+4900 - Carreço
+4905 - Carvoeiro
+4935 - Castelo do Neiva
+4935 - Darque
+4905 - Deão
+4905 - Deocriste
+4910 - Freixieiro de Soutelo
+4925 - Lanheses
+4935 - Mazarefes
+4900 - Meadela
+4925 - Meixedo
+4900 - Monserrate
+4925 - Montaria
+4905 - Moreira de Geraz do Lima
+4905 - Mujães
+4935 - Neiva
+4925 - Nogueira
+4925 - Outeiro
+4925 - Perre
+4905 - Portela Susã
+4925 - Santa Marta de Portuzelo
+4905 - Geraz Lima (Santa Leocádia)
+4905 - Geraz Lima (Santa Maria)
+4900 - Santa Maria Maior
+4925 - Serreleis
+4905 - Subportela
+4925 - Torre
+4935 - Vila Franca
+4935 - Vila Fria
+4925 - Vila Mou
+4905 - Vila de Punhe
+4925 - Vilar de Murteda
+4935 - Chafé
+4920 - Campos
+4920 - Candemil
+4920 - Cornes
+4920 - Covas
+4920 - Gondar
+4920 - Gondarém
+4920 - Loivo
+4920 - Lovelhe
+4920 - Mentrestido
+4920 - Nogueira
+4920 - Reboreda
+4920 - Sapardos
+4920 - Sopo
+4920 - Vila Meã
+4920 - Vila Nova de Cerveira
+5070 - Alijó
+5070 - Amieiro
+5070 - Carlão
+5085 - Casal de Loivos
+5070 - Castedo
+5070 - Cotas
+5070 - Favaios
+5070 - Pegarinhos
+5085 - Pinhão
+5070 - Pópulo
+5070 - Ribalonga
+5070 - Sanfins do Douro
+5070 - Santa Eugénia
+5070 - São Mamede de Ribatua
+5085 - Vale de Mendiz
+5070 - Vila Chã
+5070 - Vila Verde
+5070 - Vilar de Maçada
+5085 - Vilarinho de Cotas
+5460 - Alturas do Barroso
+5460 - Ardãos
+5460 - Beça
+5460 - Bobadela
+5460 - Boticas
+5460 - Cerdedo
+5460 - Codessoso
+5460 - Covas do Barroso
+5460 - Curros
+5460 - Dornelas
+5460 - Fiães do Tamega
+5460 - Granja
+5460 - Pinho
+5460 - São Salvador de Viveiro
+5460 - Sapiãos
+5460 - Vilar
+5400 - Águas Frias
+5425 - Anelhe
+5425 - Arcossó
+5400 - Bobadela
+5400 - Bustelo
+5400 - Calvão
+5400 - Cela
+5400 - Cimo de Vila de Castanheira
+5400 - Curalha
+5400 - Eiras
+5400 - Ervededo
+5400 - Faiões
+5400 - Lama de Arcos
+5425 - Loivos
+5400 - Mairos
+5400 - Moreiras
+5400 - Nogueira da Montanha
+5400 - Oucidres
+5425 - Oura
+5400 - Outeiro Seco
+5400 - Paradela
+5425 - Póvoa de Agrações
+5400 - Redondelo
+5400 - Roriz
+5400 - Samaiões
+5400 - Sanfins
+5400 - Sanjurje
+5400 - Santa Leocádia
+5400 - Santo António de Monforte
+5400 - Santo Estevão
+5400 - São Julião de Montenegro
+5400 - São Pedro de Agostem
+5400 - São Vicente
+5400 - Seara Velha
+5425 - Selhariz
+5400 - Soutelinho da Raia
+5400 - Soutelo
+5400 - Travancas
+5400 - Tronco
+5400 - Vale de Anta
+5425 - Vidago
+5400 - Vila Verde de Raia
+5400 - Vilar de Nantes
+5400 - Vilarelho da Raia
+5425 - Vilarinho das Paranheiras
+5425 - Vilas Boas
+5400 - Vilela Seca
+5400 - Vilela do Tâmega
+5400 - Santa Maria Maior
+5400 - Madalena
+5400 - Santa Cruz/Trindade
+5040 - Barqueiros
+5040 - Cidadelhe
+5040 - Oliveira
+5040 - Santa Cristina
+5040 - São Nicolau
+5040 - Vila Jusã
+5040 - Vila Marim
+4880 - Atei
+4880 - Bilhó
+4880 - Campanhó
+4880 - Ermelo
+4880 - Mondim de Basto
+4880 - Paradança
+4880 - Pardelhas
+4880 - Vilar de Ferreiros
+5470 - Cabril
+5470 - Cambeses do Rio
+5470 - Cervos
+5470 - Chã
+5470 - Contim
+5470 - Covelães
+5470 - Covelo do Gerez
+5470 - Donões
+5470 - Ferral
+5470 - Fervidelas
+5470 - Fiães do Rio
+5470 - Gralhas
+5470 - Meixedo
+5470 - Meixide
+5470 - Montalegre
+5470 - Morgade
+5470 - Mourilhe
+5470 - Negrões
+5470 - Outeiro
+5470 - Padornelos
+5470 - Padroso
+5470 - Paradela
+5470 - Pitões das Junias
+5470 - Pondras
+5470 - Reigoso
+5470 - Salto
+5470 - Santo André
+5470 - Vilar Perdizes (São Miguel)
+5470 - Sarraquinhos
+5470 - Sezelhe
+5470 - Solveira
+5470 - Tourém
+5470 - Venda Nova
+5470 - Viade de Baixo
+5470 - Vila da Ponte
+5090 - Candedo
+5090 - Carva
+5090 - Fiolhoso
+5090 - Jou
+5090 - Murça
+5090 - Noura
+5090 - Palheiros
+5090 - Valongo de Milhais
+5090 - Vilares
+5050 - Covelinhas
+5050 - Fontelas
+5050 - Galafura
+5050 - Godim
+5050 - Loureiro
+5050 - Moura Morta
+5050 - Peso da Régua
+5050 - Poiares
+5040 - Sedielos
+5050 - Vilarinho dos Freires
+5050 - Vinhós
+5050 - Canelas
+4870 - Alvadia
+4870 - Canedo
+4870 - Cerva
+4870 - Limões
+4870 - Salvador
+4870 - Santa Marinha
+4870 - Santo Aleixo de Além-Tamega
+5060 - Celeirós
+5085 - Covas do Douro
+5085 - Gouvães do Douro
+5060 - Gouvinhas
+5060 - Parada de Pinhão
+5060 - Paradela de Guiães
+5060 - Paços
+5060 - Provesende
+5060 - Sabrosa
+5085 - São Cristóvão do Douro
+5060 - São Lourenço de Ribapinhão
+5060 - São Martinho de Antas
+5060 - Souto Maior
+5060 - Torre do Pinhão
+5060 - Vilarinho de São Romão
+5030 - Alvações do Corgo
+5030 - Cumieira
+5030 - Fontes
+5030 - Fornelos
+5030 - Louredo
+5030 - Medrões
+5030 - Sanhoane
+5030 - Lobrigos (São João Batista)
+5030 - São Miguel
+5030 - Sever
+5430 - Água Revês e Crasto
+5430 - Alvarelhos
+5445 - Argeriz
+5430 - Barreiros
+5430 - Bouçoães
+5430 - Canaveses
+5445 - Carrazedo de Montenegro
+5445 - Curros
+5430 - Ervões
+5430 - Fiães
+5430 - Fornos do Pinhal
+5430 - Friões
+5430 - Lebução
+5430 - Nozelos
+5445 - Padrela e Tázem
+5430 - Possacos
+5430 - Rio Torto
+5430 - Sanfins
+5445 - Santa Maria de Emeres
+5430 - Santa Valha
+5445 - Santiago Ribeira de Alhariz
+5445 - São João da Corveira
+5430 - São Pedro de Veiga de Lila
+5445 - Serapicos
+5430 - Sonim
+5430 - Tinhela
+5430 - Vales
+5430 - Valpaços
+5430 - Vassal
+5430 - Veiga de Lila
+5430 - Vilarandelo
+5450 - Afonsim
+5450 - Alfarela de Jales
+5450 - Bornes de Aguiar
+5450 - Bragado
+5450 - Capeludos
+5450 - Gouvães da Serra
+5450 - Parada de Monteiros
+5450 - Pensalvos
+5450 - Santa Marta da Montanha
+5450 - Soutelo de Aguiar
+5450 - Telões
+5450 - Tresminas
+5450 - Valoura
+5450 - Vila Pouca de Aguiar
+5450 - Vreia de Bornes
+5450 - Vreia de Jales
+5450 - Sabroso de Aguiar
+5450 - Lixa do Alvão
+5000 - Abaças
+5000 - Adoufe
+5000 - Andrães
+5000 - Arroios
+5000 - Borbela
+5000 - Campeã
+5000 - Constantim
+5000 - Ermida
+5000 - Folhadela
+5000 - Guiães
+5000 - Justes
+5000 - Lamares
+5000 - Lamas de Olo
+5000 - Lordelo
+5000 - Mateus
+5000 - Mondrões
+5000 - Mouçós
+5000 - Nogueira
+5000 - Nossa Senhora da Conceição
+5000 - Parada de Cunhos
+5000 - Pena
+5000 - Quintã
+5000 - São Dinis
+5000 - São Pedro
+5000 - São Tomé do Castelo
+5000 - Torgueda
+5000 - Vale de Nogueiras
+5000 - Vila Cova
+5000 - Vila Marim
+5000 - Vilarinho de Samardã
+5110 - Aldeias
+5110 - Aricera
+5114 - Armamar
+5110 - Cimbres
+5110 - Coura
+5110 - Folgosa
+5110 - Fontelo
+5110 - Goujoim
+5110 - Queimada
+5110 - Queimadela
+5110 - Santa Cruz
+5110 - Santiago
+5110 - Santo Adrião
+5110 - São Cosmado
+5110 - São Martinho das Chãs
+5110 - São Romão
+5110 - Tões
+5110 - Vacalar
+5110 - Vila Seca
+3430 - Beijós
+3430 - Cabanas de Viriato
+3430 - Currelos
+3430 - Oliveira do Conde
+3430 - Papízios
+3430 - Parada
+3430 - Sobral
+3600 - Almofala
+3600 - Alva
+3600 - Cabril
+3600 - Castro Daire
+3600 - Cujó
+3600 - Ermida
+3600 - Ester
+3600 - Gafanhão
+3600 - Gosende
+3600 - Mamouros
+3600 - Mezio
+3600 - Mões
+3600 - Moledo
+3600 - Monteiras
+3600 - Moura Morta
+3600 - Parada de Ester
+3600 - Pepim
+3600 - Picão
+3600 - Pinheiro
+3600 - Reriz
+3600 - Ribolhos
+3600 - São Joaninho
+4690 - Alhões
+4690 - Bustelo
+4690 - Cinfães
+4690 - Espadanedo
+4690 - Ferreiros de Tendais
+4690 - Fornelos
+4690 - Gralheira
+4690 - Moimenta
+4690 - Nespereira
+4690 - Oliveira do Douro
+4690 - Ramires
+4690 - Santiago de Piães
+4690 - São Cristóvão de Nogueira
+4690 - Souselo
+4690 - Tarouquela
+4690 - Tendais
+4690 - Travanca
+5100 - Almacave
+5100 - Avões
+5100 - Bigorne
+5100 - Britiande
+5100 - Cambres
+5100 - Cepões
+5100 - Ferreirim
+5100 - Ferreiros de Avões
+5100 - Figueira
+5100 - Lalim
+5100 - Lazarim
+5100 - Magueija
+5100 - Meijinhos
+5100 - Melcões
+5100 - Parada do Bispo
+5100 - Penajóia
+5100 - Penude
+5100 - Pretarouca
+5100 - Samodães
+5100 - Sande
+5100 - Sé
+5100 - Valdigem
+5100 - Várzea de Abrunhais
+5100 - Vila Nova Souto D'El-Rei
+3530 - Abrunhosa-a-Velha
+3530 - Alcafache
+3530 - Chãs de Tavares
+3530 - Cunha Alta
+3530 - Cunha Baixa
+3530 - Espinho
+3530 - Fornos de Maceira Dão
+3530 - Freixiosa
+3530 - Lobelhe do Mato
+3530 - Mangualde
+3530 - Mesquitela
+3534 - Moimenta Maceira Dão
+3530 - Póvoa de Cervães
+3530 - Quintela de Azurara
+3530 - Santiago de Cassurrães
+3530 - São João da Fresta
+3530 - Travanca de Tavares
+3530 - Várzea de Tavares
+3620 - Aldeia de Nacomba
+3620 - Alvite
+3620 - Arcozelos
+3620 - Ariz
+3620 - Baldos
+3620 - Cabaços
+3620 - Caria
+3620 - Castelo
+3620 - Leomil
+3620 - Moimenta da Beira
+3620 - Nagosa
+3620 - Paradinha
+3620 - Passô
+3620 - Pêra Velha
+3620 - Peva
+3620 - Rua
+3620 - Sarzedo
+3620 - Segões
+3620 - Sever
+3620 - Vilar
+3450 - Almaça
+3450 - Cercosa
+3450 - Cortegaça
+3450 - Espinho
+3450 - Marmeleira
+3450 - Mortágua
+3450 - Pala
+3450 - Sobral
+3450 - Trezói
+3450 - Vale de Remígio
+3525 - Canas de Senhorim
+3525 - Carvalhal Redondo
+3520 - Nelas
+3520 - Santar
+3520 - Senhorim
+3520 - Vilar Seco
+3525 - Aguieira
+3525 - Lapa do Lobo
+3520 - Moreira
+3475 - Arca
+3680 - Arcozelo das Maias
+3680 - Destriz
+3680 - Oliveira de Frades
+3680 - Pinheiro
+3680 - Reigoso
+3680 - Ribeiradio
+3680 - São João da Serra
+3680 - São Vicente de Lafões
+3680 - Sejães
+3680 - Souto de Lafões
+3475 - Varzielas
+3550 - Antas
+3550 - Castelo de Penalva
+3550 - Esmolfe
+3550 - Germil
+3550 - Insua
+3550 - Lusinde
+3550 - Mareco
+3550 - Matela
+3550 - Pindo
+3550 - Real
+3550 - Sezures
+3550 - Trancozelos
+3550 - Vila Cova do Covelo
+3630 - Antas
+3630 - Beselga
+3630 - Castainço
+3630 - Granja
+3630 - Ourozinho
+3630 - Penedono
+3630 - Penela da Beira
+3630 - Póvoa de Penela
+3630 - Souto
+4660 - Anreade
+4660 - Barrô
+4660 - Cárquere
+4660 - Feirão
+4660 - Felgueiras
+4660 - Freigil
+4660 - Miomães
+4660 - Ovadas
+4660 - Panchorra
+4660 - Paus
+4660 - Resende
+4660 - São Cipriano
+4660 - São João de Fontoura
+4660 - São Martinho de Mouros
+4660 - São Romão de Aregos
+3440 - Couto do Mosteiro
+3440 - Óvoa
+3440 - Pinheiro de Ázere
+3440 - Santa Comba Dão
+3440 - São Joaninho
+3440 - São João de Areias
+3440 - Treixedo
+3440 - Vimieiro
+3440 - Nagosela
+5130 - Castanheiro do Sul
+5130 - Ervedosa do Douro
+5130 - Espinhosa
+5130 - Nagoselo do Douro
+5130 - Paredes da Beira
+5130 - Pereiros
+5130 - Riodades
+5130 - São João da Pesqueira
+5130 - Soutelo do Douro
+5130 - Trevões
+5130 - Vale de Figueira
+5130 - Valongo dos Azeites
+5130 - Várzea de Trevões
+5130 - Vilarouco
+3660 - Baiões
+3660 - Bordonhos
+3660 - Candal
+3660 - Carvalhais
+3660 - Covas do Rio
+3660 - Figueiredo de Alva
+3660 - Manhouce
+3660 - Pindelo dos Milagres
+3660 - Pinho
+3660 - Santa Cruz da Trapa
+3660 - São Cristóvão de Lafões
+3660 - São Félix
+3660 - São Martinho das Moitas
+3660 - São Pedro do Sul
+3660 - Serrazes
+3660 - Sul
+3660 - Valadares
+3660 - Várzea
+3660 - Vila Maior
+3560 - Águas Boas
+3560 - Avelal
+3560 - Decermilo
+3560 - Ferreira de Aves
+3560 - Forles
+3560 - Mioma
+3560 - Rio de Moinhos
+3560 - Romãs
+3560 - São Miguel de Vila Boa
+3560 - Sátão
+3560 - Silvã de Cima
+3560 - Vila Longa
+3640 - Arnas
+3640 - Carregal
+3640 - Chosendo
+3640 - Cunha
+3640 - Escurquela
+3620 - Faia
+3640 - Ferreirim
+3640 - Fonte Arcada
+3640 - Freixinho
+3640 - Granjal
+3640 - Lamosa
+3640 - Macieira
+3640 - Penso
+3640 - Quintela
+3640 - Sarzeda
+3640 - Sernancelhe
+3640 - Vila da Ponte
+5120 - Adorigo
+5120 - Arcos
+5120 - Barcos
+5120 - Chavães
+5120 - Desejosa
+5120 - Granja do Tedo
+5120 - Granjinha
+5120 - Longa
+5120 - Paradela
+5120 - Pereiro
+5120 - Pinheiros
+5120 - Santa Leocádia
+5120 - Sendim
+5120 - Tabuaço
+5120 - Távora
+5120 - Vale de Figueira
+5120 - Valença do Douro
+3610 - Dalvares
+3610 - Gouviães
+3610 - Granja Nova
+3610 - Mondim da Beira
+3610 - Salzedas
+3610 - São João de Tarouca
+3610 - Tarouca
+3610 - Ucanha
+3610 - Várzea da Serra
+3610 - Vila Chã da Beira
+3465 - Barreiro de Besteiros
+3465 - Campo de Besteiros
+3460 - Canas de Santa Maria
+3465 - Caparrosa
+3465 - Castelões
+3460 - Dardavaz
+3460 - Ferreirós do Dão
+3475 - Guardão
+3460 - Lajeosa do Dão
+3460 - Lobão da Beira
+3460 - Molelos
+3475 - Mosteirinho
+3460 - Mosteiro de Fráguas
+3460 - Mouraz
+3460 - Nandufe
+3460 - Parada de Gonta
+3460 - Sabugosa
+3465 - Santiago de Besteiros
+3475 - São João do Monte
+3460 - São Miguel do Outeiro
+3465 - Silvares
+3460 - Tonda
+3460 - Tondela
+3460 - Vila Nova da Rainha
+3465 - Vilar de Besteiros
+3465 - Tourigo
+3650 - Alhais
+3650 - Fráguas
+3650 - Pendilhe
+3650 - Queiriga
+3650 - Touro
+3650 - Vila Cova à Coelheira
+3650 - Vila Nova de Paiva
+3515 - Abraveses
+3505 - Barreiros
+3510 - Boa Aldeia
+3515 - Bodiosa
+3515 - Calde
+3515 - Campo
+3505 - Cavernães
+3505 - Cepões
+3510 - Coração de Jesus
+3505 - Cota
+3510 - Couto de Baixo
+3510 - Couto de Cima
+3510 - Fail
+3510 - Farminhão
+3505 - Fragosela
+3515 - Lordosa
+3500 - Silgueiros
+3505 - Mundão
+3510 - Orgens
+3505 - Povolide
+3500 - Ranhados
+3515 - Ribafeita
+3505 - Rio de Loba
+3500 - Santa Maria
+3505 - Santos Evos
+3510 - São Cipriano
+3500 - São João de Lourosa
+3500 - São José
+3505 - São Pedro de France
+3510 - São Salvador
+3510 - Torredeita
+3510 - Vil de Souto
+3510 - Vila Chã de Sá
+3500 - Repeses
+3670 - Alcofra
+3670 - Cambra
+3670 - Campia
+3670 - Carvalhal de Vermilhas
+3670 - Fataúnços
+3670 - Figueiredo das Donas
+3670 - Fornelo do Monte
+3670 - Paços de Vilharigues
+3670 - Queirã
+3670 - São Miguel do Mato
+3670 - Ventosa
+3670 - Vouzela
+9370 - Arco da Calheta
+9370 - Calheta
+9370 - Estreito da Calheta
+9370 - Fajã da Ovelha
+9370 - Jardim do Mar
+9370 - Paul do Mar
+9385 - Ponta do Pargo
+9370 - Prazeres
+9300 - Câmara de Lobos
+9030 - Curral das Freiras
+9325 - Estreito de Câmara de Lobos
+9300 - Quinta Grande
+9325 - Jardim da Serra
+9050 - Imaculado Coração de Maria
+9050 - Monte
+9050 - Santa Luzia
+9060 - Santa Maria Maior
+9020 - Santo António
+9060 - São Gonçalo
+9000 - São Martinho
+9000 - São Pedro
+9020 - São Roque
+9000 - Sé
+9200 - Água de Pena
+9200 - Caniçal
+9200 - Machico
+9225 - Porto da Cruz
+9200 - Santo António da Serra
+9360 - Canhas
+9360 - Madalena do Mar
+9360 - Ponta do Sol
+9270 - Achadas da Cruz
+9270 - Porto Moniz
+9270 - Ribeira da Janela
+9270 - Seixal
+9350 - Campanário
+9350 - Ribeira Brava
+9350 - Serra de Água
+9350 - Tabua
+9135 - Camacha
+9125 - Caniço
+9100 - Gaula
+9100 - Santa Cruz
+9100 - Santo António da Serra
+9230 - Arco de São Jorge
+9230 - Faial
+9230 - Santana
+9230 - São Jorge
+9230 - São Roque do Faial
+9230 - Ilha
+9240 - Boa Ventura
+9240 - Ponta Delgada
+9240 - São Vicente
+9400 - Porto Santo
+9580 - Almagreira
+9580 - Santa Bárbara
+9580 - Santo Espírito
+9580 - São Pedro
+9580 - Vila do Porto
+9560 - Água de Pau
+9560 - Cabouco
+9560 - Nossa Senhora do Rosário
+9560 - Santa Cruz
+9560 - Ribeira Chã
+9630 - Achada
+9630 - Achadinha
+9630 - Lomba da Fazenda
+9630 - Nordeste
+9630 - Salga
+9630 - Santana
+9630 - Algarvia
+9630 - Santo António de Nordestinho
+9630 - São Pedro de Nordestinho
+9500 - Arrifes
+9555 - Candelária
+9545 - Capelas
+9500 - Covoada
+9500 - Fajã de Baixo
+9500 - Fajã de Cima
+9545 - Fenais da Luz
+9500 - Feteiras
+9555 - Ginetes
+9555 - Mosteiros
+9500 - São Sebastião
+9500 - São José
+9500 - São Pedro
+9500 - Relva
+9545 - Remédios
+9500 - Livramento
+9500 - São Roque
+9545 - Santa Bárbara
+9545 - Santo António
+9545 - São Vicente Ferreira
+9555 - Sete Cidades
+9545 - Ajuda da Bretanha
+9545 - Pilar da Bretanha
+9500 - Santa Clara
+9650 - Água Retorta
+9650 - Faial da Terra
+9675 - Furnas
+9650 - Nossa Senhora dos Remédios
+9650 - Povoação
+9675 - Ribeira Quente
+9600 - Calhetas
+9625 - Fenais da Ajuda
+9625 - Lomba da Maia
+9625 - Lomba de São Pedro
+9625 - Maia
+9600 - Pico da Pedra
+9625 - Porto Formoso
+9600 - Rabo de Peixe
+9600 - Conceição
+9600 - Martiz
+9600 - Ribeira Grande (Matriz)
+9600 - Ribeira Seca
+9600 - Ribeirinha
+9600 - Santa Bárbara
+9625 - São Brás
+9680 - Água de Alto
+9680 - Ponta Garça
+9680 - Ribeira das Tainhas
+9680 - São Miguel
+9680 - São Pedro
+9680 - Ribeira Seca
+9700 - Altares
+9700 - Nossa Senhora da Conceição
+9700 - Santa Luzia
+9700 - São Pedro
+9700 - Sé
+9700 - Cinco Ribeiras
+9700 - Doze Ribeiras
+9700 - Feteira
+9700 - Porto Judeu
+9700 - Posto Santo
+9700 - Raminho
+9700 - Ribeirinha
+9700 - Santa Bárbara
+9700 - São Bartolomeu de Regatos
+9700 - São Bento
+9700 - São Mateus da Calheta
+9700 - Serreta
+9700 - Terra Chã
+9700 - Vila de São Sebastião
+9760 - Agualva
+9760 - Biscoitos
+9760 - Cabo da Praia
+9760 - Fonte do Bastardo
+9760 - Fontinhas
+9760 - Lajes
+9760 - Porto Martins
+9760 - Praia da Vitória
+9760 - Quatro Ribeiras
+9760 - São Brás
+9760 - Vila Nova
+9880 - Guadalupe
+9880 - Luz
+9880 - Praia
+9880 - Santa Cruz da Graciosa
+9850 - Calheta
+9850 - Norte Pequeno
+9850 - Ribeira Seca
+9875 - Santo Antão
+9875 - Topo
+9800 - Manadas
+9800 - Norte Grande
+9800 - Rosais
+9800 - Santo Amaro
+9800 - Urzelina
+9800 - Velas
+9930 - Calheta de Nesquim
+9930 - Lajes do Pico
+9930 - Piedade
+9930 - Ribeiras
+9930 - Ribeirinha
+9930 - São João
+9950 - Bandeiras
+9950 - Candelária
+9950 - Criação Velha
+9950 - Madalena
+9950 - São Caetano
+9950 - São Mateus
+9940 - Prainha
+9940 - Santa Luzia
+9940 - Santo Amaro
+9940 - Santo António
+9940 - São Roque do Pico
+9900 - Capelo
+9900 - Castelo Branco
+9900 - Cedros
+9900 - Feteira
+9900 - Flamengos
+9900 - Angústias
+9900 - Conceição
+9900 - Horta
+9900 - Pedro Miguel
+9900 - Praia do Almoxarife
+9900 - Praia do Norte
+9900 - Ribeirinha
+9900 - Salão
+9960 - Fajã Grande
+9960 - Fajãzinha
+9960 - Fazenda
+9960 - Lajedo
+9960 - Lajes das Flores
+9960 - Lomba
+9960 - Mosteiro
+9970 - Caveira
+9970 - Cedros
+9970 - Ponta Delgada
+9970 - Santa Cruz das Flores
+9980 - Corvo
